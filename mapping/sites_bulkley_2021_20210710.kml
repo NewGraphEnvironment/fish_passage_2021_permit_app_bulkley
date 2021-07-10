@@ -1398,10 +1398,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1414,10 +1412,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-704700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-694148 </td>
-   <td style="text-align:left;border: 1px solid black;"> Barren Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.56 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Barren Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.56 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1443,9 +1439,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1459,10 +1453,8 @@
    <td style="text-align:right;border: 1px solid black;"> 4.85 </td>
    <td style="text-align:right;border: 1px solid black;"> 11.925 </td>
    <td style="text-align:right;border: 1px solid black;"> 68.65 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-778000-76002 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-763808-706575 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 3.3 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-778000-76002 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 3.3 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1486,9 +1478,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1500,10 +1490,8 @@
    <td style="text-align:right;border: 1px solid black;"> 1.62 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-744900-44300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-732614-408992 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.8 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-744900-44300 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.8 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1529,10 +1517,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1547,10 +1533,8 @@
    <td style="text-align:right;border: 1px solid black;"> 51.725 </td>
    <td style="text-align:right;border: 1px solid black;"> 122.8 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-242900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-237852 </td>
-   <td style="text-align:left;border: 1px solid black;"> Toboggan Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 15 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Toboggan Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 15 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1575,10 +1559,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1592,10 +1574,8 @@
    <td style="text-align:right;border: 1px solid black;"> 4.3 </td>
    <td style="text-align:right;border: 1px solid black;"> 6.82 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-435300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-427289 </td>
-   <td style="text-align:left;border: 1px solid black;"> McDowell Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.3 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> McDowell Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.3 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1620,10 +1600,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1637,10 +1615,8 @@
    <td style="text-align:right;border: 1px solid black;"> 1.3 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.2 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-430900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-423347 </td>
-   <td style="text-align:left;border: 1px solid black;"> Tyhee Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Tyhee Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1665,10 +1641,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1682,10 +1656,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0.81 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.71 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-430900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-423347 </td>
-   <td style="text-align:left;border: 1px solid black;"> Tyhee Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Tyhee Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1711,10 +1683,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1729,10 +1699,8 @@
    <td style="text-align:right;border: 1px solid black;"> 11.71 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-201500 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-197707 </td>
-   <td style="text-align:left;border: 1px solid black;"> John Brown Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 13 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> John Brown Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 13 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1758,10 +1726,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1776,10 +1742,8 @@
    <td style="text-align:right;border: 1px solid black;"> 12.2 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-185400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-181726 </td>
-   <td style="text-align:left;border: 1px solid black;"> Corya Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 25 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Corya Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 25 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1804,9 +1768,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1819,10 +1781,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0.53 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-081700-43900-45900-6600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-079962-441999-443832-677294-095277-187251-279058 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.63 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-081700-43900-45900-6600 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.63 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1845,9 +1805,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> total_slopeclass08_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1858,10 +1816,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0.73 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.59 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.73 </td>
-   <td style="text-align:right;border: 1px solid black;"> 0.73 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-079962-441999-443832-677294-095277-187251-279058-161086 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.07 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 0.73 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.07 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1887,10 +1843,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1905,10 +1859,8 @@
    <td style="text-align:right;border: 1px solid black;"> 9.255 </td>
    <td style="text-align:right;border: 1px solid black;"> 28.26 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-007300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-007243 </td>
-   <td style="text-align:left;border: 1px solid black;"> Station Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Station Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1933,10 +1885,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1950,10 +1900,8 @@
    <td style="text-align:right;border: 1px solid black;"> 3.92 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.92 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-125600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-123856 </td>
-   <td style="text-align:left;border: 1px solid black;"> Porphyry Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 20 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Porphyry Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 20 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -1979,10 +1927,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -1997,10 +1943,8 @@
    <td style="text-align:right;border: 1px solid black;"> 12.575 </td>
    <td style="text-align:right;border: 1px solid black;"> 66.78 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-437000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-430066 </td>
-   <td style="text-align:left;border: 1px solid black;"> Helps Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 3.67 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Helps Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 3.67 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2025,9 +1969,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2040,10 +1982,8 @@
    <td style="text-align:right;border: 1px solid black;"> 7.85 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-458800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-450642 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-458800 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2069,10 +2009,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2087,10 +2025,8 @@
    <td style="text-align:right;border: 1px solid black;"> 14.455 </td>
    <td style="text-align:right;border: 1px solid black;"> 89.06 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-472700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-464077 </td>
-   <td style="text-align:left;border: 1px solid black;"> Coffin Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.75 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Coffin Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.75 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2116,10 +2052,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2134,10 +2068,8 @@
    <td style="text-align:right;border: 1px solid black;"> 5.185 </td>
    <td style="text-align:right;border: 1px solid black;"> 18.67 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-496100-08700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-485911-075489 </td>
-   <td style="text-align:left;border: 1px solid black;"> Gibson Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.2 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Gibson Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.2 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2163,10 +2095,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2181,10 +2111,8 @@
    <td style="text-align:right;border: 1px solid black;"> 6.43 </td>
    <td style="text-align:right;border: 1px solid black;"> 23.71 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-496100-08700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-485911-075489 </td>
-   <td style="text-align:left;border: 1px solid black;"> Gibson Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1.27 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Gibson Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 1.27 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2209,10 +2137,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2226,10 +2152,8 @@
    <td style="text-align:right;border: 1px solid black;"> 1.51 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.14 </td>
    <td style="text-align:right;border: 1px solid black;"> 79.9 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-266600-990817 </td>
-   <td style="text-align:left;border: 1px solid black;"> Riddeck Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 2.6 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Riddeck Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 2.6 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2254,11 +2178,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2272,11 +2194,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.585 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.23 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-23900-32500 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-266600-360267 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.5 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Smaller channel width. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller channel width. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2301,11 +2221,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2319,11 +2237,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.56 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.56 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-23900-59400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-266600-641933 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.1 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Large wetland complex upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Large wetland complex upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2348,11 +2264,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2366,11 +2280,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.21 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.21 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-23900-13000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-266600-148535 </td>
    <td style="text-align:right;border: 1px solid black;"> 5.4 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Less than 1km of potential habitat but very large channel width. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Less than 1km of potential habitat but very large channel width. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2396,9 +2308,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2412,10 +2322,8 @@
    <td style="text-align:right;border: 1px solid black;"> 3.09 </td>
    <td style="text-align:right;border: 1px solid black;"> 5.7 </td>
    <td style="text-align:right;border: 1px solid black;"> 108.04 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-636000-36664 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-623573-329057 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-636000-36664 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2440,10 +2348,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2457,10 +2363,8 @@
    <td style="text-align:right;border: 1px solid black;"> 4.99 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.99 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-750400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-737582-024023 </td>
-   <td style="text-align:left;border: 1px solid black;"> Byman Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 11.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Byman Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 11.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2486,10 +2390,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2504,10 +2406,8 @@
    <td style="text-align:right;border: 1px solid black;"> 32.85 </td>
    <td style="text-align:right;border: 1px solid black;"> 104.42 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-788200 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-773280 </td>
-   <td style="text-align:left;border: 1px solid black;"> Richfield Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 12.5 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Richfield Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 12.5 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2533,10 +2433,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2551,10 +2449,8 @@
    <td style="text-align:right;border: 1px solid black;"> 35.73 </td>
    <td style="text-align:right;border: 1px solid black;"> 82.51 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-778000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-763808 </td>
-   <td style="text-align:left;border: 1px solid black;"> Johnny David Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.3 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Johnny David Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.3 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2579,10 +2475,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2596,10 +2490,8 @@
    <td style="text-align:right;border: 1px solid black;"> 3.65 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.65 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-704700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-694148 </td>
-   <td style="text-align:left;border: 1px solid black;"> Barren Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.7 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Barren Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.7 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2625,9 +2517,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2641,10 +2531,8 @@
    <td style="text-align:right;border: 1px solid black;"> 304.53 </td>
    <td style="text-align:right;border: 1px solid black;"> 492.235 </td>
    <td style="text-align:right;border: 1px solid black;"> 1356.65 </td>
-   <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 3.5 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 4600 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 3.5 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2669,9 +2557,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2684,10 +2570,8 @@
    <td style="text-align:right;border: 1px solid black;"> 7.85 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.46 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.46 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-458800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-450642 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.1 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-458800 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.1 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2713,10 +2597,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2731,10 +2613,8 @@
    <td style="text-align:right;border: 1px solid black;"> 14.475 </td>
    <td style="text-align:right;border: 1px solid black;"> 89.06 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-472700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-464077 </td>
-   <td style="text-align:left;border: 1px solid black;"> Coffin Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.75 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Coffin Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.75 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2758,10 +2638,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2774,10 +2652,8 @@
    <td style="text-align:right;border: 1px solid black;"> 7.16 </td>
    <td style="text-align:right;border: 1px solid black;"> 10.08 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-800700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-785328 </td>
-   <td style="text-align:left;border: 1px solid black;"> Cesford Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.68 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Cesford Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.68 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2803,10 +2679,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2821,10 +2695,8 @@
    <td style="text-align:right;border: 1px solid black;"> 50.935 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
   <tr>
    <td style="text-align:right;border: 1px solid black;"> 1001800050 </td>
@@ -2837,10 +2709,8 @@
    <td style="text-align:right;border: 1px solid black;"> 50.935 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2866,10 +2736,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2884,10 +2752,8 @@
    <td style="text-align:right;border: 1px solid black;"> 50.935 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
   <tr>
    <td style="text-align:right;border: 1px solid black;"> 1001800050 </td>
@@ -2900,10 +2766,8 @@
    <td style="text-align:right;border: 1px solid black;"> 50.935 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2929,10 +2793,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2947,10 +2809,8 @@
    <td style="text-align:right;border: 1px solid black;"> 25.45 </td>
    <td style="text-align:right;border: 1px solid black;"> 96.13 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-829700-20600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-815756 </td>
-   <td style="text-align:left;border: 1px solid black;"> Ailport Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 8.02 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Ailport Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8.02 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -2976,10 +2836,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -2994,10 +2852,8 @@
    <td style="text-align:right;border: 1px solid black;"> 11.08 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.71 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-829700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-815756-166390 </td>
-   <td style="text-align:left;border: 1px solid black;"> Watson Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 3.74 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Watson Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 3.74 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3023,10 +2879,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3041,10 +2895,8 @@
    <td style="text-align:right;border: 1px solid black;"> 39.85 </td>
    <td style="text-align:right;border: 1px solid black;"> 128.68 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-829700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-815756 </td>
-   <td style="text-align:left;border: 1px solid black;"> Ailport Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.44 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Ailport Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.44 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3070,9 +2922,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3086,10 +2936,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0.82 </td>
    <td style="text-align:right;border: 1px solid black;"> 7.335 </td>
    <td style="text-align:right;border: 1px solid black;"> 37.71 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-834400-26900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-820938 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1.98 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-834400-26900 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 1.98 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3115,10 +2963,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3133,10 +2979,8 @@
    <td style="text-align:right;border: 1px solid black;"> 25.05 </td>
    <td style="text-align:right;border: 1px solid black;"> 96.13 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-829700-20600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-815756 </td>
-   <td style="text-align:left;border: 1px solid black;"> Ailport Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 8.02 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Ailport Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 8.02 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3162,9 +3006,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3178,10 +3020,8 @@
    <td style="text-align:right;border: 1px solid black;"> 9.54 </td>
    <td style="text-align:right;border: 1px solid black;"> 31.785 </td>
    <td style="text-align:right;border: 1px solid black;"> 167.88 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-834400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-820938 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.65 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-834400 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.65 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3206,10 +3046,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3223,10 +3061,8 @@
    <td style="text-align:right;border: 1px solid black;"> 2.93 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.93 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-142600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-140529 </td>
-   <td style="text-align:left;border: 1px solid black;"> Boulder Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 12 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Boulder Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 12 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3252,9 +3088,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3268,10 +3102,8 @@
    <td style="text-align:right;border: 1px solid black;"> 4.07 </td>
    <td style="text-align:right;border: 1px solid black;"> 16.26 </td>
    <td style="text-align:right;border: 1px solid black;"> 96.83 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-834400-26900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-820938 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.77 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-834400-26900 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.77 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3297,10 +3129,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3315,10 +3145,8 @@
    <td style="text-align:right;border: 1px solid black;"> 18.945 </td>
    <td style="text-align:right;border: 1px solid black;"> 90.15 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-829700-20600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-815756 </td>
-   <td style="text-align:left;border: 1px solid black;"> Ailport Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.69 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Ailport Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.69 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3344,10 +3172,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3362,10 +3188,8 @@
    <td style="text-align:right;border: 1px solid black;"> 25.86 </td>
    <td style="text-align:right;border: 1px solid black;"> 104.42 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-788200-05100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-773280-070140 </td>
-   <td style="text-align:left;border: 1px solid black;"> Robert Hatch Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.17 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Robert Hatch Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.17 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3391,10 +3215,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3409,10 +3231,8 @@
    <td style="text-align:right;border: 1px solid black;"> 32.38 </td>
    <td style="text-align:right;border: 1px solid black;"> 82.51 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-778000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-763808 </td>
-   <td style="text-align:left;border: 1px solid black;"> Johnny David Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.75 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Johnny David Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.75 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3438,10 +3258,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3456,10 +3274,8 @@
    <td style="text-align:right;border: 1px solid black;"> 27.99 </td>
    <td style="text-align:right;border: 1px solid black;"> 104.42 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-788200-05100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-773280-070140 </td>
-   <td style="text-align:left;border: 1px solid black;"> Robert Hatch Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 4.37 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Robert Hatch Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 4.37 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3485,10 +3301,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3503,10 +3317,8 @@
    <td style="text-align:right;border: 1px solid black;"> 20.61 </td>
    <td style="text-align:right;border: 1px solid black;"> 76.5 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-496100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-485911 </td>
-   <td style="text-align:left;border: 1px solid black;"> Deep Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.3 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Deep Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.3 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3532,10 +3344,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3550,10 +3360,8 @@
    <td style="text-align:right;border: 1px solid black;"> 22.46 </td>
    <td style="text-align:right;border: 1px solid black;"> 76.5 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-496100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-485911 </td>
-   <td style="text-align:left;border: 1px solid black;"> Deep Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 14 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Deep Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 14 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3579,10 +3387,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3597,10 +3403,8 @@
    <td style="text-align:right;border: 1px solid black;"> 23.475 </td>
    <td style="text-align:right;border: 1px solid black;"> 15.47 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-917900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-912160 </td>
-   <td style="text-align:left;border: 1px solid black;"> Crow Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.69 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Crow Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.69 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3626,9 +3430,7 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3642,10 +3444,8 @@
    <td style="text-align:right;border: 1px solid black;"> 8.64 </td>
    <td style="text-align:right;border: 1px solid black;"> 10.71 </td>
    <td style="text-align:right;border: 1px solid black;"> 13.74 </td>
-   <td style="text-align:left;border: 1px solid black;"> 460-924300-43400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-918528-419839 </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 3.12 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> 460-924300-43400 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 3.12 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3671,10 +3471,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3689,10 +3487,8 @@
    <td style="text-align:right;border: 1px solid black;"> 52.735 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
   <tr>
    <td style="text-align:right;border: 1px solid black;"> 1001805529 </td>
@@ -3705,10 +3501,8 @@
    <td style="text-align:right;border: 1px solid black;"> 52.735 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3734,10 +3528,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3752,10 +3544,8 @@
    <td style="text-align:right;border: 1px solid black;"> 52.735 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
   <tr>
    <td style="text-align:right;border: 1px solid black;"> 1001805529 </td>
@@ -3768,10 +3558,8 @@
    <td style="text-align:right;border: 1px solid black;"> 52.735 </td>
    <td style="text-align:right;border: 1px solid black;"> 263.53 </td>
    <td style="text-align:left;border: 1px solid black;"> 4600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358 </td>
-   <td style="text-align:left;border: 1px solid black;"> Bulkley River </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 6.21 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Bulkley River </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 6.21 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3797,10 +3585,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3815,10 +3601,8 @@
    <td style="text-align:right;border: 1px solid black;"> 32.315 </td>
    <td style="text-align:right;border: 1px solid black;"> 20.27 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-917900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-912160 </td>
-   <td style="text-align:left;border: 1px solid black;"> Crow Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.88 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Crow Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.88 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3844,10 +3628,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3862,10 +3644,8 @@
    <td style="text-align:right;border: 1px solid black;"> 14.02 </td>
    <td style="text-align:right;border: 1px solid black;"> 65.19 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-242900-51500 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-237852-484634 </td>
-   <td style="text-align:left;border: 1px solid black;"> Glass Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 5.67 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Glass Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 5.67 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3891,10 +3671,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3909,10 +3687,8 @@
    <td style="text-align:right;border: 1px solid black;"> 65.295 </td>
    <td style="text-align:right;border: 1px solid black;"> 401.97 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-325400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-319200 </td>
-   <td style="text-align:left;border: 1px solid black;"> Canyon Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 7.86 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Canyon Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 7.86 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3937,11 +3713,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -3955,11 +3729,9 @@
    <td style="text-align:right;border: 1px solid black;"> 6.49 </td>
    <td style="text-align:right;border: 1px solid black;"> 10.505 </td>
    <td style="text-align:right;border: 1px solid black;"> 14.43 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-028917 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.26 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> In Houston with rail upstream.  Maybe very modified. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> In Houston with rail upstream.  Maybe very modified. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -3984,12 +3756,10 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4003,12 +3773,10 @@
    <td style="text-align:right;border: 1px solid black;"> 1.54 </td>
    <td style="text-align:right;border: 1px solid black;"> 24.71 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-57600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-637722 </td>
    <td style="text-align:left;border: 1px solid black;"> Nado Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 3.89 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> CBR - 2.2m  culvert. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> CBR - 2.2m  culvert. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4034,11 +3802,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4053,11 +3819,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.58 </td>
    <td style="text-align:right;border: 1px solid black;"> 17.15 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-02700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-032105 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.14 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Just below Klinger Lake. Good for coho? </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Just below Klinger Lake. Good for coho? </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4083,11 +3847,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4102,11 +3864,9 @@
    <td style="text-align:right;border: 1px solid black;"> 7.26 </td>
    <td style="text-align:right;border: 1px solid black;"> 13.74 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-63200-09800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-700175-118208 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.67 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Smaller stream potentially suitable for upstream migrating juvenile salmon. DV upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller stream potentially suitable for upstream migrating juvenile salmon. DV upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4130,11 +3890,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4147,11 +3905,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-20300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-195266 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.09 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Cascade noted adjacent to crossing but no FISS sample sites. Coho in mainstem Thautil nearby. Stream splits to two tribs just upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Cascade noted adjacent to crossing but no FISS sample sites. Coho in mainstem Thautil nearby. Stream splits to two tribs just upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4174,10 +3930,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4189,10 +3943,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-3900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-383788 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Low gradient with wetlands upstream and CO,CT and others downstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Low gradient with wetlands upstream and CO,CT and others downstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4215,11 +3967,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4231,11 +3981,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-57600-40600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-637722-297130 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.51 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Channel width 1.5 m downstream at FISS site. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Channel width 1.5 m downstream at FISS site. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4259,11 +4007,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4276,11 +4022,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.48 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.48 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-51300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-493891 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.32 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Stealhead and bulltrout nearby </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Stealhead and bulltrout nearby </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4304,11 +4048,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4321,11 +4063,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-17000-18900-3601 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-190109-194271-156457 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.59 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> FISS site downstream does not mention intermittent as is FWA tag. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> FISS site downstream does not mention intermittent as is FWA tag. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4351,11 +4091,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4370,11 +4108,9 @@
    <td style="text-align:right;border: 1px solid black;"> 4.56 </td>
    <td style="text-align:right;border: 1px solid black;"> 8.13 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-17000-18900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-190109-194271 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.3 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Lots of low gradient habitat but split into many tribs. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of low gradient habitat but split into many tribs. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4397,10 +4133,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4412,10 +4146,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-39700 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-439733 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Coho downstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Coho downstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4439,11 +4171,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4456,11 +4186,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-35600-07800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-397552-070076 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.98 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Top end of lake. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Top end of lake. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4485,11 +4213,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4503,11 +4229,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-23900-39300 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-266600-435069 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.42 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Models as over 2m wide and has fish obs upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Models as over 2m wide and has fish obs upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4532,11 +4256,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4550,11 +4272,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.815 </td>
    <td style="text-align:right;border: 1px solid black;"> 6.07 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-63200 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-700175-297749 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.55 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Two small tribs upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Two small tribs upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4577,10 +4297,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4592,10 +4310,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-63200-28000-0600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-700175-279690 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Steeper system. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper system. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4621,12 +4337,10 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4641,12 +4355,10 @@
    <td style="text-align:right;border: 1px solid black;"> 7.54 </td>
    <td style="text-align:right;border: 1px solid black;"> 40.42 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-26600 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-299343 </td>
    <td style="text-align:left;border: 1px solid black;"> Fenton Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 3.13 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Major culvert (5m wide). </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Major culvert (5m wide). </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4670,12 +4382,10 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4688,12 +4398,10 @@
    <td style="text-align:right;border: 1px solid black;"> 4.81 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.81 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-07100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-071935 </td>
    <td style="text-align:left;border: 1px solid black;"> Peacock Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 5.23 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Fish way noted as having issues in Smith 2018. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Fish way noted as having issues in Smith 2018. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4717,11 +4425,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4734,11 +4440,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-12000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-132958-039027 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.13 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Quite steep. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Quite steep. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4763,11 +4467,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4781,11 +4483,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.885 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.57 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-0630 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-004976 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.83 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Steelhead and coho points just downstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steelhead and coho points just downstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4810,11 +4510,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4828,11 +4526,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.16 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.16 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-5730 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-566240 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.22 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Good sized lake upstream. Road not visible in aerial imagery.  Follow up with foresters before headingout in field. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Good sized lake upstream. Road not visible in aerial imagery.  Follow up with foresters before headingout in field. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4857,11 +4553,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4875,11 +4569,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.71 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.295 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.92 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-708951-231411-111148 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.36 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Very close to Naninka. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very close to Naninka. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4902,10 +4594,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4917,10 +4607,8 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.75 </td>
    <td style="text-align:right;border: 1px solid black;"> 10.26 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-416313 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Steeper stream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper stream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4945,11 +4633,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -4963,11 +4649,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-52400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-576683 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.92 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Smaller stream with coho upstream of crossing. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller stream with coho upstream of crossing. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -4993,11 +4677,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5012,11 +4694,9 @@
    <td style="text-align:right;border: 1px solid black;"> 3.71 </td>
    <td style="text-align:right;border: 1px solid black;"> 6.28 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-36400-00800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-405041-009425 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.53 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Very close to Morice mainstem. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very close to Morice mainstem. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5041,11 +4721,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5059,11 +4737,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.43 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.43 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-64400-11700-4190 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-708951-079969-562197 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.42 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Smaller potential high value habitat gain but Nanika in Nanika system so in high value watershed. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller potential high value habitat gain but Nanika in Nanika system so in high value watershed. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5089,12 +4765,10 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5109,12 +4783,10 @@
    <td style="text-align:right;border: 1px solid black;"> 20.585 </td>
    <td style="text-align:right;border: 1px solid black;"> 35.89 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-63200 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-700175 </td>
    <td style="text-align:left;border: 1px solid black;"> McBride Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 6.29 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> CBR indicates "major culvert" at 4.5m width. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> CBR indicates "major culvert" at 4.5m width. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5139,11 +4811,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5157,11 +4827,9 @@
    <td style="text-align:right;border: 1px solid black;"> 6.695 </td>
    <td style="text-align:right;border: 1px solid black;"> 41 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-57600-18800 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-637722-145083 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.57 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Low gradient and close to mainstem but low elevation watershed. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Low gradient and close to mainstem but low elevation watershed. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5187,11 +4855,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5206,11 +4872,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0.865 </td>
    <td style="text-align:right;border: 1px solid black;"> 15.68 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-7930 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-776656 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.29 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Models as a bit larger of a channel with 0.75km &lt;5% and  DV upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Models as a bit larger of a channel with 0.75km &lt;5% and  DV upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5236,12 +4900,10 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5256,12 +4918,10 @@
    <td style="text-align:right;border: 1px solid black;"> 7.32 </td>
    <td style="text-align:right;border: 1px solid black;"> 36.96 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-36400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-405041 </td>
    <td style="text-align:left;border: 1px solid black;"> Lamprey Creek </td>
    <td style="text-align:right;border: 1px solid black;"> 4.29 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Large lake headed system. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Large lake headed system. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5287,11 +4947,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5306,11 +4964,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.86 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.95 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-5610 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-536175 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.7 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Coho, steelhead and other species upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Coho, steelhead and other species upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5336,11 +4992,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5355,11 +5009,9 @@
    <td style="text-align:right;border: 1px solid black;"> 5.49 </td>
    <td style="text-align:right;border: 1px solid black;"> 182.41 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-4290 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-425535 </td>
    <td style="text-align:right;border: 1px solid black;"> 5.26 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Multiple species (including CO)  noted upstream with lots of modelled habitat. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Multiple species (including CO)  noted upstream with lots of modelled habitat. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5382,11 +5034,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> total_slopeclass08_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5398,11 +5048,9 @@
    <td style="text-align:right;border: 1px solid black;"> 1.15 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-494461-108341-458581 </td>
    <td style="text-align:right;border: 1px solid black;"> 1.66 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Potentially fish bearing according to http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=50411. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Potentially fish bearing according to http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=50411. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5426,11 +5074,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5443,11 +5089,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-2830-4066-283 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-271238-385828-175163 </td>
    <td style="text-align:right;border: 1px solid black;"> 0.88 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Channel models as small.  Flows into lake. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Channel models as small.  Flows into lake. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5473,11 +5117,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5492,11 +5134,9 @@
    <td style="text-align:right;border: 1px solid black;"> 5.595 </td>
    <td style="text-align:right;border: 1px solid black;"> 20.22 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-50800-00500-3770 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-558169-005657-369090 </td>
    <td style="text-align:right;border: 1px solid black;"> 4.92 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Many fish points upstream and downstream. Low grades. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Many fish points upstream and downstream. Low grades. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5522,11 +5162,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5541,11 +5179,9 @@
    <td style="text-align:right;border: 1px solid black;"> 4.885 </td>
    <td style="text-align:right;border: 1px solid black;"> 43.5 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-33000 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-366398 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.43 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Lots of low gradient and lake upsteam. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of low gradient and lake upsteam. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5570,11 +5206,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_spawning_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5588,11 +5222,9 @@
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-44500-38900 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-494461-373723 </td>
    <td style="text-align:right;border: 1px solid black;"> 2.55 </td>
-   <td style="text-align:left;border: 1px solid black;"> mod </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Appears of highest value for rearing. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> yellow </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> mod </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Appears of highest value for rearing. </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5618,10 +5250,8 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> gnis_name </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5636,10 +5266,8 @@
    <td style="text-align:right;border: 1px solid black;"> 9.96 </td>
    <td style="text-align:right;border: 1px solid black;"> 0 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-185400 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-181726 </td>
-   <td style="text-align:left;border: 1px solid black;"> Corya Creek </td>
-   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 7.28 </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Corya Creek </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 4in; "> 7.28 </td>
   </tr>
 </tbody>
 </table>]]></description>
@@ -5665,11 +5293,9 @@
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_km </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> co_rearing_ha </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_50k </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> watershed_code_20k </th>
    <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> channel_width </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_priority </th>
    <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> my_text </th>
-   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> color </th>
   </tr>
  </thead>
 <tbody>
@@ -5684,11 +5310,9 @@
    <td style="text-align:right;border: 1px solid black;"> 5.545 </td>
    <td style="text-align:right;border: 1px solid black;"> 20.8 </td>
    <td style="text-align:left;border: 1px solid black;"> 460-600600-36400-64100 </td>
-   <td style="text-align:left;border: 1px solid black;"> 400-431358-585806-405041-630893 </td>
    <td style="text-align:right;border: 1px solid black;"> 3.75 </td>
-   <td style="text-align:left;border: 1px solid black;"> high </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> Lots of lake upstream. </td>
-   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> red </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> high </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of lake upstream. </td>
   </tr>
 </tbody>
 </table>]]></description>

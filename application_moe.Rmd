@@ -53,9 +53,11 @@ options(knitr.kable.NAN = '--')
 source('R/packages.R')
 source('R/functions.R')
 
-##define the project
-project_name <- 'bulkley_2021'
+name_project <- 'bulkley_2021'
+name_repo <- 'fish_passage_2021_permit_app_bulkley'
 
+link_repo <- paste0('https://newgraphenvironment.github.io/', name_repo, '/')
+link_kml <- paste0('https://github.com/NewGraphEnvironment/', name_repo, '/raw/main/docs/sites_', name_project, '_', format(Sys.Date(), '%Y%m%d'), '_kml.zip')
 ```
 
 ```{r settings-gitbook, eval= gitbook_on}
@@ -69,8 +71,7 @@ photo_width <- "80%"
 font_set <- 9
 ```
 
-This permit application can also be viewed online [at this link](https://www.newgraphenvironment.com/fish_passage_2021_permit_app/).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map of displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](https://github.com/NewGraphEnvironment/fish_passage_2021_permit_app/raw/main/mapping/sites_bulkley_2021_20210710_kml.zip).
-
+This permit application can also be viewed online [at this link](`r knitr::asis_output(link_repo)`).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map of displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](`r knitr::asis_output(link_kml)`)
 <br>
 
 Rationale for sampling is to inform fish presence/absence and species composition/density as part of habitat confirmations to prioritize fish passage restoration at barrier culverts as per the [Fish Passage Technical Working Group Phase 2 protocol](https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/land-based-investment/investment-categories/fish-passage). Presence/absence of fish, species composition/density and distribution limits can be useful for prioritizing which crossings are a best fit for fish passage restoration and help inform follow up monitoring.  Sampling is proposed at a portion of the 15 - 30 sites (Table \@ref(tab:tab-sites)) where we will be performing habitat confirmations this summer and may occur well upstream of the crossing locations.  The current list of candidate streams is extensive and will be narrowed down through the results of field assessments, modeling, ongoing communications with Wet'suwet'en, Skeena Fisheries Commission, DFO, Gitxsan Watershed Authority, FLNR and other stakeholders.
@@ -249,7 +250,7 @@ dir.create('mapping')
 #make a gpx file for hitting the field
 table_sites %>% 
   select(name, desc,  geom) %>% 
-  write_sf(dsn = paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), ".gpx"), driver="GPX",
+  write_sf(dsn = paste0("mapping/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"), ".gpx"), driver="GPX",
            dataset_options="GPX_USE_EXTENSIONS=yes", delete_dsn = TRUE)
 
 ```
@@ -272,15 +273,15 @@ shape = "http://maps.google.com/mapfiles/kml/pal2/icon18.png"
 
 
 
-kml_open(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
+kml_open(paste0("mapping/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
 kml_layer(sites_kml, colour = '#ff7f00', shape = sites_kml$shape, labels = sites_kml$name, 
           html.table = sites_kml$html_tbl,
           z.scale = 2, LabelScale = 1, size = 1.5)  ##I don't see the label
-kml_close(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
+kml_close(paste0("mapping/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
 
 ##now we will zip up the kml files in the data folder and rename with kmz
 files_to_zip <- paste0("mapping/", list.files(path = "mapping/", pattern = "\\.kml$"))  ##this will zip all kmls in file so watch out
-zip::zipr(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '_kml.zip'), files = files_to_zip)  ##it does not work to zip to kmz!!
+zip::zipr(paste0("docs/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"), '_kml.zip'), files = files_to_zip)  ##it does not work to zip to kmz!!
 
 
 ```

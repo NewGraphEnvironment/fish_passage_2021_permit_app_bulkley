@@ -40,7 +40,7 @@ make_html_tbl <- function(df) {
   # df2 <- df %>%
   #   dplyr::mutate(`Image link` = cell_spec('crossing', "html", link = `Image link`))
   df2 <- select(df, -blue_line_key, -linear_feature_id, -lat, -long,
-                -sub5, -name, -desc, -shape) %>%
+                -sub5, -name, -desc, -shape, -watershed_code_20k, watershed_code_50k,-color) %>%
     sf::st_drop_geometry() %>%
     janitor::remove_empty() #, -shape, -color, -label
   df %>%
