@@ -1,33 +1,37 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata><bounds minlat="53.995568377635372" minlon="-127.708839926945290" maxlat="55.240446130839160" maxlon="-126.035208069151910"/></metadata>              
-<wpt lat="54.392771684735301" lon="-126.76676997267235">
-  <name>1014000271 - mod - NA</name>
-  <desc>sub5 3.3 co_s 0 co_r 1.58 co_ha 17.15  cw 1.14 Just below Klinger Lake. Good for coho?</desc>
-</wpt>
 <wpt lat="54.509319348417478" lon="-126.614243542184369">
   <name>3042 - NA - Barren Creek</name>
   <desc>sub5 1.08 co_s 0 co_r 0 co_ha NA  cw 2.56 NA</desc>
-</wpt>
-<wpt lat="54.201654050585034" lon="-126.891324987702845">
-  <name>1014000796 - high - Fenton Creek</name>
-  <desc>sub5 9.44 co_s 5.2 co_r 7.54 co_ha 40.42  cw 3.13 Major culvert (5m wide).</desc>
 </wpt>
 <wpt lat="54.125801280054809" lon="-127.317981092467789">
   <name>1014000509 - mod - NA</name>
   <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 1.51 Channel width 1.5 m downstream at FISS site.</desc>
 </wpt>
+<wpt lat="54.380086399266261" lon="-126.737746240004725">
+  <name>1014000009 - mod - NA</name>
+  <desc>sub5 16.19 co_s 6.49 co_r 10.505 co_ha 14.43  cw 4.26 In Houston with rail upstream.  Maybe very modified.</desc>
+</wpt>
 <wpt lat="54.787966520667801" lon="-127.023693744457361">
   <name>1001805665 - NA - Canyon Creek</name>
   <desc>sub5 52.86 co_s 33.36 co_r 65.295 co_ha 401.97  cw 7.86 NA</desc>
+</wpt>
+<wpt lat="54.392771684735301" lon="-126.76676997267235">
+  <name>1014000271 - mod - NA</name>
+  <desc>sub5 3.3 co_s 0 co_r 1.58 co_ha 17.15  cw 1.14 Just below Klinger Lake. Good for coho?</desc>
+</wpt>
+<wpt lat="54.201654050585034" lon="-126.891324987702845">
+  <name>1014000796 - high - Fenton Creek</name>
+  <desc>sub5 9.44 co_s 5.2 co_r 7.54 co_ha 40.42  cw 3.13 Major culvert (5m wide).</desc>
 </wpt>
 <wpt lat="54.179009485719639" lon="-127.101211485650609">
   <name>1014000991 - mod - NA</name>
   <desc>sub5 0.64 co_s 0 co_r 0.75 co_ha 10.26  cw NA Steeper stream.</desc>
 </wpt>
-<wpt lat="54.380086399266261" lon="-126.737746240004725">
-  <name>1014000009 - mod - NA</name>
-  <desc>sub5 16.19 co_s 6.49 co_r 10.505 co_ha 14.43  cw 4.26 In Houston with rail upstream.  Maybe very modified.</desc>
+<wpt lat="54.236136607527044" lon="-126.632239585699821">
+  <name>197640 - NA - NA</name>
+  <desc>sub5 10.1 co_s 3.09 co_r 5.7 co_ha 108.04  cw 5.1 NA</desc>
 </wpt>
 <wpt lat="54.224871731874366" lon="-127.240419791310373">
   <name>1014001769 - mod - NA</name>
@@ -37,10 +41,6 @@
   <name>1001800752 - NA - NA</name>
   <desc>sub5 30.76 co_s 0.82 co_r 7.335 co_ha 37.71  cw 1.98 NA</desc>
 </wpt>
-<wpt lat="54.236136607527044" lon="-126.632239585699821">
-  <name>197640 - NA - NA</name>
-  <desc>sub5 10.1 co_s 3.09 co_r 5.7 co_ha 108.04  cw 5.1 NA</desc>
-</wpt>
 <wpt lat="54.31558766206922" lon="-126.835775390369633">
   <name>1014000801 - mod - NA</name>
   <desc>sub5 0.06 co_s 0 co_r 0 co_ha NA  cw 2.13 Quite steep.</desc>
@@ -49,25 +49,17 @@
   <name>123770 - NA - John Brown Creek</name>
   <desc>sub5 10.92 co_s 11.71 co_r 11.71 co_ha 0  cw 13 NA</desc>
 </wpt>
-<wpt lat="54.473248232860044" lon="-126.212079638295762">
-  <name>1001800355 - NA - Ailport Creek</name>
-  <desc>sub5 42.17 co_s 14.53 co_r 25.45 co_ha 96.13  cw 8.02 NA</desc>
-</wpt>
 <wpt lat="54.25209966248034" lon="-127.390872078775928">
   <name>1014000379 - mod - NA</name>
   <desc>sub5 3.63 co_s 0 co_r 0 co_ha NA  cw 2.09 Cascade noted adjacent to crossing but no FISS sample sites. Coho in mainstem Thautil nearby. Stream splits to two tribs just upstream.</desc>
 </wpt>
+<wpt lat="54.473248232860044" lon="-126.212079638295762">
+  <name>1001800355 - NA - Ailport Creek</name>
+  <desc>sub5 42.17 co_s 14.53 co_r 25.45 co_ha 96.13  cw 8.02 NA</desc>
+</wpt>
 <wpt lat="54.199242153383224" lon="-127.125613889947729">
   <name>1014000674 - mod - NA</name>
   <desc>sub5 3.06 co_s 0 co_r 0 co_ha NA  cw NA Coho downstream.</desc>
-</wpt>
-<wpt lat="54.605198446246263" lon="-126.827418547588607">
-  <name>1001802820 - NA - Deep Creek</name>
-  <desc>sub5 29.15 co_s 14.25 co_r 22.46 co_ha 76.5  cw 14 NA</desc>
-</wpt>
-<wpt lat="54.208249075680918" lon="-127.533549260990682">
-  <name>1014001542 - high - NA</name>
-  <desc>sub5 4.86 co_s 3.54 co_r 5.595 co_ha 20.22  cw 4.92 Many fish points upstream and downstream. Low grades.</desc>
 </wpt>
 <wpt lat="54.360593599837308" lon="-126.79212337550112">
   <name>1014000798 - high - Peacock Creek</name>
@@ -77,25 +69,29 @@
   <name>124504 - NA - Coffin Creek</name>
   <desc>sub5 19.13 co_s 8.13 co_r 14.455 co_ha 89.06  cw 4.75 NA</desc>
 </wpt>
-<wpt lat="54.483291776814774" lon="-126.160221210700499">
-  <name>1001802044 - NA - Ailport Creek</name>
-  <desc>sub5 40.32 co_s 8.14 co_r 18.945 co_ha 90.15  cw 5.69 NA</desc>
+<wpt lat="54.515524183963414" lon="-126.336537379452693">
+  <name>197662 - NA - Richfield Creek</name>
+  <desc>sub5 134.85 co_s 17.74 co_r 32.85 co_ha 104.42  cw 12.5 NA</desc>
+</wpt>
+<wpt lat="54.208249075680918" lon="-127.533549260990682">
+  <name>1014001542 - high - NA</name>
+  <desc>sub5 4.86 co_s 3.54 co_r 5.595 co_ha 20.22  cw 4.92 Many fish points upstream and downstream. Low grades.</desc>
+</wpt>
+<wpt lat="54.605198446246263" lon="-126.827418547588607">
+  <name>1001802820 - NA - Deep Creek</name>
+  <desc>sub5 29.15 co_s 14.25 co_r 22.46 co_ha 76.5  cw 14 NA</desc>
 </wpt>
 <wpt lat="55.094731381393785" lon="-127.185501754764303">
   <name>123795 - NA - NA</name>
   <desc>sub5 0.73 co_s 0.73 co_r 0.73 co_ha NA  cw 2.07 NA</desc>
 </wpt>
-<wpt lat="54.371997996780138" lon="-126.197676411256523">
-  <name>1001803682 - NA - Crow Creek</name>
-  <desc>sub5 20.99 co_s 20.48 co_r 23.475 co_ha 15.47  cw 5.69 NA</desc>
+<wpt lat="54.093545699590038" lon="-127.395409335478504">
+  <name>1014000788 - mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw NA Steeper system.</desc>
 </wpt>
-<wpt lat="54.515524183963414" lon="-126.336537379452693">
-  <name>197662 - NA - Richfield Creek</name>
-  <desc>sub5 134.85 co_s 17.74 co_r 32.85 co_ha 104.42  cw 12.5 NA</desc>
-</wpt>
-<wpt lat="54.476033785008156" lon="-126.215928401150677">
-  <name>1001800356 - NA - Watson Creek</name>
-  <desc>sub5 11.86 co_s 7.21 co_r 11.08 co_ha 3.71  cw 3.74 NA</desc>
+<wpt lat="54.483291776814774" lon="-126.160221210700499">
+  <name>1001802044 - NA - Ailport Creek</name>
+  <desc>sub5 40.32 co_s 8.14 co_r 18.945 co_ha 90.15  cw 5.69 NA</desc>
 </wpt>
 <wpt lat="55.093980916698008" lon="-127.180562665419984">
   <name>123794 - NA - NA</name>
@@ -105,9 +101,17 @@
   <name>197664 - NA - Barren Creek</name>
   <desc>sub5 12.88 co_s 3.65 co_r 3.65 co_ha NA  cw 4.7 NA</desc>
 </wpt>
-<wpt lat="54.093545699590038" lon="-127.395409335478504">
-  <name>1014000788 - mod - NA</name>
-  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw NA Steeper system.</desc>
+<wpt lat="54.476033785008156" lon="-126.215928401150677">
+  <name>1001800356 - NA - Watson Creek</name>
+  <desc>sub5 11.86 co_s 7.21 co_r 11.08 co_ha 3.71  cw 3.74 NA</desc>
+</wpt>
+<wpt lat="54.371997996780138" lon="-126.197676411256523">
+  <name>1001803682 - NA - Crow Creek</name>
+  <desc>sub5 20.99 co_s 20.48 co_r 23.475 co_ha 15.47  cw 5.69 NA</desc>
+</wpt>
+<wpt lat="54.687125013564042" lon="-127.021813314862626">
+  <name>123446 - NA - Tyhee Creek</name>
+  <desc>sub5 11.04 co_s 0.81 co_r 1.71 co_ha NA  cw 4.1 NA</desc>
 </wpt>
 <wpt lat="54.508441674335053" lon="-126.30620942474664">
   <name>1001800048 - NA - Cesford Creek</name>
@@ -125,69 +129,33 @@
   <name>1014001563 - high - NA</name>
   <desc>sub5 3.87 co_s 1.67 co_r 4.885 co_ha 43.5  cw 2.43 Lots of low gradient and lake upsteam.</desc>
 </wpt>
-<wpt lat="54.687125013564042" lon="-127.021813314862626">
-  <name>123446 - NA - Tyhee Creek</name>
-  <desc>sub5 11.04 co_s 0.81 co_r 1.71 co_ha NA  cw 4.1 NA</desc>
-</wpt>
 <wpt lat="54.107940446318324" lon="-127.685058757325962">
   <name>1014001198 - mod - NA</name>
   <desc>sub5 0.75 co_s 0.57 co_r 0.865 co_ha 15.68  cw 3.29 Models as a bit larger of a channel with 0.75km &lt;5% and  DV upstream.</desc>
-</wpt>
-<wpt lat="54.472688538039606" lon="-126.229397801031723">
-  <name>1001800422 - NA - Ailport Creek</name>
-  <desc>sub5 57.98 co_s 24.23 co_r 39.85 co_ha 128.68  cw 6.44 NA</desc>
-</wpt>
-<wpt lat="54.178689944976796" lon="-127.065742299576996">
-  <name>1014001029 - high - NA</name>
-  <desc>sub5 4.34 co_s 1.25 co_r 3.71 co_ha 6.28  cw 2.53 Very close to Morice mainstem.</desc>
 </wpt>
 <wpt lat="54.873557631105555" lon="-127.259273154329847">
   <name>1001805553 - NA - Glass Creek</name>
   <desc>sub5 9.78 co_s 5.45 co_r 14.02 co_ha 65.19  cw 5.67 NA</desc>
 </wpt>
+<wpt lat="54.178689944976796" lon="-127.065742299576996">
+  <name>1014001029 - high - NA</name>
+  <desc>sub5 4.34 co_s 1.25 co_r 3.71 co_ha 6.28  cw 2.53 Very close to Morice mainstem.</desc>
+</wpt>
+<wpt lat="54.472688538039606" lon="-126.229397801031723">
+  <name>1001800422 - NA - Ailport Creek</name>
+  <desc>sub5 57.98 co_s 24.23 co_r 39.85 co_ha 128.68  cw 6.44 NA</desc>
+</wpt>
 <wpt lat="54.238058541309492" lon="-127.265309024154803">
   <name>1014001427 - mod - NA</name>
   <desc>sub5 0.02 co_s 0 co_r 0 co_ha NA  cw 1.66 Potentially fish bearing according to http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=50411.</desc>
 </wpt>
-<wpt lat="54.195495437826658" lon="-127.592842275373386">
-  <name>1014001247 - high - NA</name>
-  <desc>sub5 5.53 co_s 2.78 co_r 5.49 co_ha 182.41  cw 5.26 Multiple species (including CO)  noted upstream with lots of modelled habitat.</desc>
-</wpt>
-<wpt lat="54.475779468996343" lon="-126.209016874797783">
-  <name>1001801122 - NA - Ailport Creek</name>
-  <desc>sub5 42.17 co_s 14.14 co_r 25.05 co_ha 96.13  cw 8.02 NA</desc>
-</wpt>
-<wpt lat="54.543928347667112" lon="-126.372683840335597">
-  <name>1001802088 - NA - Robert Hatch Creek</name>
-  <desc>sub5 25.88 co_s 11.14 co_r 25.86 co_ha 104.42  cw 4.17 NA</desc>
+<wpt lat="54.620983930646894" lon="-126.919289309522554">
+  <name>197668 - NA - Coffin Creek</name>
+  <desc>sub5 19.13 co_s 8.16 co_r 14.475 co_ha 89.06  cw 4.75 NA</desc>
 </wpt>
 <wpt lat="54.939767629694856" lon="-127.318342337915752">
   <name>57944 - NA - Toboggan Creek</name>
   <desc>sub5 34.43 co_s 24.88 co_r 51.725 co_ha 122.8  cw 15 NA</desc>
-</wpt>
-<wpt lat="54.633164974720493" lon="-126.969020206157907">
-  <name>197667 - NA - NA</name>
-  <desc>sub5 3.71 co_s 0.46 co_r 0.46 co_ha NA  cw 5.1 NA</desc>
-</wpt>
-<wpt lat="54.29847772835798" lon="-127.586228309775052">
-  <name>1014001534 - mod - NA</name>
-  <desc>sub5 0.07 co_s 0 co_r 0 co_ha NA  cw 0.88 Channel models as small.  Flows into lake.</desc>
-</wpt>
-<wpt lat="55.106507220994573" lon="-127.378706997350463">
-  <name>1001801773 - NA - Boulder Creek</name>
-  <desc>sub5 7.11 co_s 2.93 co_r 2.93 co_ha NA  cw 12 NA</desc>
-</wpt>
-<wpt lat="54.337766534862986" lon="-127.330006547643009">
-  <name>1014000565 - high - NA</name>
-  <desc>sub5 3.29 co_s 1.48 co_r 1.48 co_ha NA  cw 3.32 Stealhead and bulltrout nearby</desc>
-</wpt>
-<wpt lat="54.057949265335786" lon="-126.70931336780437">
-  <name>197360 - NA - Riddeck Creek</name>
-  <desc>sub5 11.87 co_s 1.51 co_r 2.14 co_ha 79.9  cw 2.6 NA</desc>
-</wpt>
-<wpt lat="54.182032075256195" lon="-126.839958392721471">
-  <name>197379 - mod - NA</name>
-  <desc>sub5 17.2 co_s 0.21 co_r 0.21 co_ha NA  cw 5.4 Less than 1km of potential habitat but very large channel width.</desc>
 </wpt>
 <wpt lat="54.157190553876191" lon="-126.800514023051392">
   <name>197365 - mod - NA</name>
@@ -197,73 +165,113 @@
   <name>1014001161 - high - McBride Creek</name>
   <desc>sub5 48.08 co_s 14.45 co_r 20.585 co_ha 35.89  cw 6.29 CBR indicates &quot;major culvert&quot; at 4.5m width.</desc>
 </wpt>
-<wpt lat="54.620983930646894" lon="-126.919289309522554">
-  <name>197668 - NA - Coffin Creek</name>
-  <desc>sub5 19.13 co_s 8.16 co_r 14.475 co_ha 89.06  cw 4.75 NA</desc>
+<wpt lat="54.337766534862986" lon="-127.330006547643009">
+  <name>1014000565 - high - NA</name>
+  <desc>sub5 3.29 co_s 1.48 co_r 1.48 co_ha NA  cw 3.32 Stealhead and bulltrout nearby</desc>
 </wpt>
-<wpt lat="54.287653943490987" lon="-126.976661152561149">
-  <name>1014000571 - mod - NA</name>
-  <desc>sub5 8.51 co_s 2.51 co_r 4.56 co_ha 8.13  cw 4.3 Lots of low gradient habitat but split into many tribs.</desc>
+<wpt lat="54.195495437826658" lon="-127.592842275373386">
+  <name>1014001247 - high - NA</name>
+  <desc>sub5 5.53 co_s 2.78 co_r 5.49 co_ha 182.41  cw 5.26 Multiple species (including CO)  noted upstream with lots of modelled habitat.</desc>
+</wpt>
+<wpt lat="54.543928347667112" lon="-126.372683840335597">
+  <name>1001802088 - NA - Robert Hatch Creek</name>
+  <desc>sub5 25.88 co_s 11.14 co_r 25.86 co_ha 104.42  cw 4.17 NA</desc>
+</wpt>
+<wpt lat="54.475779468996343" lon="-126.209016874797783">
+  <name>1001801122 - NA - Ailport Creek</name>
+  <desc>sub5 42.17 co_s 14.14 co_r 25.05 co_ha 96.13  cw 8.02 NA</desc>
+</wpt>
+<wpt lat="54.29847772835798" lon="-127.586228309775052">
+  <name>1014001534 - mod - NA</name>
+  <desc>sub5 0.07 co_s 0 co_r 0 co_ha NA  cw 0.88 Channel models as small.  Flows into lake.</desc>
+</wpt>
+<wpt lat="54.633164974720493" lon="-126.969020206157907">
+  <name>197667 - NA - NA</name>
+  <desc>sub5 3.71 co_s 0.46 co_r 0.46 co_ha NA  cw 5.1 NA</desc>
 </wpt>
 <wpt lat="54.226610602166033" lon="-127.569779836204745">
   <name>1014000507 - mod - NA</name>
   <desc>sub5 0.22 co_s 0 co_r 0 co_ha NA  cw NA Low gradient with wetlands upstream and CO,CT and others downstream.</desc>
 </wpt>
+<wpt lat="54.287653943490987" lon="-126.976661152561149">
+  <name>1014000571 - mod - NA</name>
+  <desc>sub5 8.51 co_s 2.51 co_r 4.56 co_ha 8.13  cw 4.3 Lots of low gradient habitat but split into many tribs.</desc>
+</wpt>
 <wpt lat="55.036810550687022" lon="-127.334101191927729">
   <name>123776 - NA - Corya Creek</name>
   <desc>sub5 8.96 co_s 9.89 co_r 12.2 co_ha 0  cw 25 NA</desc>
 </wpt>
-<wpt lat="54.684397373190116" lon="-127.026289463757948">
-  <name>123445 - NA - Tyhee Creek</name>
-  <desc>sub5 11.04 co_s 1.3 co_r 2.2 co_ha NA  cw 4.1 NA</desc>
+<wpt lat="54.057949265335786" lon="-126.70931336780437">
+  <name>197360 - NA - Riddeck Creek</name>
+  <desc>sub5 11.87 co_s 1.51 co_r 2.14 co_ha 79.9  cw 2.6 NA</desc>
 </wpt>
 <wpt lat="54.191882117491801" lon="-127.365926981199905">
   <name>1014001002 - mod - NA</name>
   <desc>sub5 3.79 co_s 0 co_r 0 co_ha NA  cw 1.92 Smaller stream with coho upstream of crossing.</desc>
 </wpt>
-<wpt lat="54.117050661034689" lon="-126.780233285310857">
-  <name>197378 - mod - NA</name>
-  <desc>sub5 2.46 co_s 0.56 co_r 0.56 co_ha NA  cw 3.1 Large wetland complex upstream.</desc>
+<wpt lat="54.684397373190116" lon="-127.026289463757948">
+  <name>123445 - NA - Tyhee Creek</name>
+  <desc>sub5 11.04 co_s 1.3 co_r 2.2 co_ha NA  cw 4.1 NA</desc>
 </wpt>
-<wpt lat="54.593182059236092" lon="-126.832777664611243">
-  <name>195290 - NA - Gibson Creek</name>
-  <desc>sub5 3.05 co_s 2.14 co_r 6.43 co_ha 23.71  cw 1.27 NA</desc>
+<wpt lat="54.182032075256195" lon="-126.839958392721471">
+  <name>197379 - mod - NA</name>
+  <desc>sub5 17.2 co_s 0.21 co_r 0.21 co_ha NA  cw 5.4 Less than 1km of potential habitat but very large channel width.</desc>
 </wpt>
-<wpt lat="54.047381662211521" lon="-127.202870434926908">
-  <name>1014001222 - high - Lamprey Creek</name>
-  <desc>sub5 15.42 co_s 3.63 co_r 7.32 co_ha 36.96  cw 4.29 Large lake headed system.</desc>
+<wpt lat="55.106507220994573" lon="-127.378706997350463">
+  <name>1001801773 - NA - Boulder Creek</name>
+  <desc>sub5 7.11 co_s 2.93 co_r 2.93 co_ha NA  cw 12 NA</desc>
 </wpt>
 <wpt lat="54.090473701978695" lon="-127.392209288921507">
   <name>1014000777 - mod - NA</name>
   <desc>sub5 3.53 co_s 0.13 co_r 0.815 co_ha 6.07  cw 2.55 Two small tribs upstream.</desc>
 </wpt>
+<wpt lat="54.593182059236092" lon="-126.832777664611243">
+  <name>195290 - NA - Gibson Creek</name>
+  <desc>sub5 3.05 co_s 2.14 co_r 6.43 co_ha 23.71  cw 1.27 NA</desc>
+</wpt>
+<wpt lat="54.117050661034689" lon="-126.780233285310857">
+  <name>197378 - mod - NA</name>
+  <desc>sub5 2.46 co_s 0.56 co_r 0.56 co_ha NA  cw 3.1 Large wetland complex upstream.</desc>
+</wpt>
 <wpt lat="54.386843975312424" lon="-126.146014477179847">
   <name>1001805532 - NA - Crow Creek</name>
   <desc>sub5 26.92 co_s 28.09 co_r 32.315 co_ha 20.27  cw 5.88 NA</desc>
 </wpt>
-<wpt lat="55.034508279354569" lon="-127.344787841081995">
-  <name>1024704566 - NA - Corya Creek</name>
-  <desc>sub5 8.32 co_s 9.11 co_r 9.96 co_ha 0  cw 7.28 NA</desc>
-</wpt>
-<wpt lat="54.631820370483403" lon="-126.975660231001854">
-  <name>124501 - NA - NA</name>
-  <desc>sub5 3.25 co_s 0 co_r 0 co_ha NA  cw 5.1 NA</desc>
-</wpt>
-<wpt lat="54.402276170645372" lon="-126.035208069151906">
-  <name>1001800050 - NA - Bulkley River</name>
-  <desc>sub5 74.4 co_s 23.89 co_r 50.935 co_ha 263.53  cw 6.21 NA</desc>
-</wpt>
-<wpt lat="54.402276170645372" lon="-126.035208069151906">
-  <name>1001800050 - NA - Bulkley River</name>
-  <desc>sub5 74.4 co_s 23.89 co_r 50.935 co_ha 263.53  cw 6.21 NA</desc>
+<wpt lat="54.047381662211521" lon="-127.202870434926908">
+  <name>1014001222 - high - Lamprey Creek</name>
+  <desc>sub5 15.42 co_s 3.63 co_r 7.32 co_ha 36.96  cw 4.29 Large lake headed system.</desc>
 </wpt>
 <wpt lat="54.542043716848411" lon="-126.389411505384558">
   <name>1001802089 - NA - Johnny David Creek</name>
   <desc>sub5 32.36 co_s 18.6 co_r 32.38 co_ha 82.51  cw 4.75 NA</desc>
 </wpt>
+<wpt lat="55.034508279354569" lon="-127.344787841081995">
+  <name>1024704566 - NA - Corya Creek</name>
+  <desc>sub5 8.32 co_s 9.11 co_r 9.96 co_ha 0  cw 7.28 NA</desc>
+</wpt>
+<wpt lat="54.402276170645372" lon="-126.035208069151906">
+  <name>1001800050 - NA - Bulkley River</name>
+  <desc>sub5 74.4 co_s 23.89 co_r 50.935 co_ha 263.53  cw 6.21 NA</desc>
+</wpt>
+<wpt lat="54.402276170645372" lon="-126.035208069151906">
+  <name>1001800050 - NA - Bulkley River</name>
+  <desc>sub5 74.4 co_s 23.89 co_r 50.935 co_ha 263.53  cw 6.21 NA</desc>
+</wpt>
+<wpt lat="54.521877263729031" lon="-126.369563110244499">
+  <name>197663 - NA - Johnny David Creek</name>
+  <desc>sub5 35.61 co_s 21.38 co_r 35.73 co_ha 82.51  cw 6.3 NA</desc>
+</wpt>
 <wpt lat="54.129030205001492" lon="-127.354205119625391">
   <name>1014001195 - mod - NA</name>
   <desc>sub5 5.71 co_s 0.57 co_r 6.695 co_ha 41  cw 2.57 Low gradient and close to mainstem but low elevation watershed.</desc>
+</wpt>
+<wpt lat="54.659539996639488" lon="-127.022770246754703">
+  <name>124500 - NA - Helps Creek</name>
+  <desc>sub5 11.94 co_s 8.77 co_r 12.575 co_ha 66.78  cw 3.67 NA</desc>
+</wpt>
+<wpt lat="54.631820370483403" lon="-126.975660231001854">
+  <name>124501 - NA - NA</name>
+  <desc>sub5 3.25 co_s 0 co_r 0 co_ha NA  cw 5.1 NA</desc>
 </wpt>
 <wpt lat="54.518813221039721" lon="-126.422206660947964">
   <name>197658 - NA - Byman Creek</name>
@@ -273,25 +281,25 @@
   <name>1001802106 - NA - Robert Hatch Creek</name>
   <desc>sub5 30.31 co_s 12.88 co_r 27.99 co_ha 104.42  cw 4.37 NA</desc>
 </wpt>
-<wpt lat="54.659539996639488" lon="-127.022770246754703">
-  <name>124500 - NA - Helps Creek</name>
-  <desc>sub5 11.94 co_s 8.77 co_r 12.575 co_ha 66.78  cw 3.67 NA</desc>
-</wpt>
 <wpt lat="54.020439610692229" lon="-127.392255720764254">
   <name>1014001080 - mod - NA</name>
   <desc>sub5 0.75 co_s 0.43 co_r 0.43 co_ha NA  cw 3.42 Smaller potential high value habitat gain but Nanika in Nanika system so in high value watershed.</desc>
 </wpt>
-<wpt lat="54.521877263729031" lon="-126.369563110244499">
-  <name>197663 - NA - Johnny David Creek</name>
-  <desc>sub5 35.61 co_s 21.38 co_r 35.73 co_ha 82.51  cw 6.3 NA</desc>
+<wpt lat="54.207665747679002" lon="-127.051714636966452">
+  <name>1014000683 - mod - NA</name>
+  <desc>sub5 1.43 co_s 0 co_r 0 co_ha NA  cw 1.98 Top end of lake.</desc>
 </wpt>
 <wpt lat="54.560118718294" lon="-126.577322221283112">
   <name>3139 - NA - NA</name>
   <desc>sub5 10.74 co_s 0 co_r 0 co_ha NA  cw 2.8 NA</desc>
 </wpt>
-<wpt lat="54.207665747679002" lon="-127.051714636966452">
-  <name>1014000683 - mod - NA</name>
-  <desc>sub5 1.43 co_s 0 co_r 0 co_ha NA  cw 1.98 Top end of lake.</desc>
+<wpt lat="54.395086450343967" lon="-126.054468099124023">
+  <name>1001805529 - NA - Bulkley River</name>
+  <desc>sub5 74.4 co_s 25.69 co_r 52.735 co_ha 263.53  cw 6.21 NA</desc>
+</wpt>
+<wpt lat="54.395086450343967" lon="-126.054468099124023">
+  <name>1001805529 - NA - Bulkley River</name>
+  <desc>sub5 74.4 co_s 25.69 co_r 52.735 co_ha 263.53  cw 6.21 NA</desc>
 </wpt>
 <wpt lat="54.468011479247579" lon="-126.318129797816766">
   <name>1001801969 - NA - NA</name>
@@ -301,33 +309,25 @@
   <name>1014000931 - high - NA</name>
   <desc>sub5 1.33 co_s 0.71 co_r 1.295 co_ha 1.92  cw 2.36 Very close to Naninka.</desc>
 </wpt>
-<wpt lat="54.474011055033351" lon="-126.309370120940798">
-  <name>1001801133 - NA - NA</name>
-  <desc>sub5 86.42 co_s 9.54 co_r 31.785 co_ha 167.88  cw 5.65 NA</desc>
-</wpt>
-<wpt lat="54.395086450343967" lon="-126.054468099124023">
-  <name>1001805529 - NA - Bulkley River</name>
-  <desc>sub5 74.4 co_s 25.69 co_r 52.735 co_ha 263.53  cw 6.21 NA</desc>
-</wpt>
-<wpt lat="54.395086450343967" lon="-126.054468099124023">
-  <name>1001805529 - NA - Bulkley River</name>
-  <desc>sub5 74.4 co_s 25.69 co_r 52.735 co_ha 263.53  cw 6.21 NA</desc>
+<wpt lat="54.607125401922239" lon="-126.823845265952173">
+  <name>1001802760 - NA - Deep Creek</name>
+  <desc>sub5 28.08 co_s 12.39 co_r 20.61 co_ha 76.5  cw 5.3 NA</desc>
 </wpt>
 <wpt lat="55.156300775054376" lon="-127.382324551571173">
   <name>124487 - NA - Porphyry Creek</name>
   <desc>sub5 4.65 co_s 3.92 co_r 3.92 co_ha NA  cw 20 NA</desc>
 </wpt>
-<wpt lat="54.033482846557817" lon="-127.123927636759831">
-  <name>1024740003 - high - NA</name>
-  <desc>sub5 7.82 co_s 2.37 co_r 5.545 co_ha 20.8  cw 3.75 Lots of lake upstream.</desc>
+<wpt lat="54.474011055033351" lon="-126.309370120940798">
+  <name>1001801133 - NA - NA</name>
+  <desc>sub5 86.42 co_s 9.54 co_r 31.785 co_ha 167.88  cw 5.65 NA</desc>
 </wpt>
 <wpt lat="54.594736458458165" lon="-126.447806916703158">
   <name>3054 - NA - NA</name>
   <desc>sub5 11.26 co_s 4.85 co_r 11.925 co_ha 68.65  cw 3.3 NA</desc>
 </wpt>
-<wpt lat="54.607125401922239" lon="-126.823845265952173">
-  <name>1001802760 - NA - Deep Creek</name>
-  <desc>sub5 28.08 co_s 12.39 co_r 20.61 co_ha 76.5  cw 5.3 NA</desc>
+<wpt lat="54.033482846557817" lon="-127.123927636759831">
+  <name>1024740003 - high - NA</name>
+  <desc>sub5 7.82 co_s 2.37 co_r 5.545 co_ha 20.8  cw 3.75 Lots of lake upstream.</desc>
 </wpt>
 <wpt lat="54.131665521190996" lon="-127.263818625773098">
   <name>1014000255 - high - Nado Creek</name>
@@ -337,6 +337,10 @@
   <name>1014000908 - mod - NA</name>
   <desc>sub5 2.78 co_s 0 co_r 0.885 co_ha 1.57  cw 1.83 Steelhead and coho points just downstream.</desc>
 </wpt>
+<wpt lat="55.24044613083916" lon="-127.637500169044742">
+  <name>124420 - NA - Station Creek</name>
+  <desc>sub5 9.95 co_s 6.46 co_r 9.255 co_ha 28.26  cw 5.1 NA</desc>
+</wpt>
 <wpt lat="54.084556775686316" lon="-127.436827276710176">
   <name>1014000312 - mod - NA</name>
   <desc>sub5 2.14 co_s 0.09 co_r 7.26 co_ha 13.74  cw 1.67 Smaller stream potentially suitable for upstream migrating juvenile salmon. DV upstream.</desc>
@@ -345,17 +349,9 @@
   <name>1014000912 - high - NA</name>
   <desc>sub5 3.04 co_s 1.16 co_r 1.16 co_ha NA  cw 4.22 Good sized lake upstream. Road not visible in aerial imagery.  Follow up with foresters before headingout in field.</desc>
 </wpt>
-<wpt lat="55.24044613083916" lon="-127.637500169044742">
-  <name>124420 - NA - Station Creek</name>
-  <desc>sub5 9.95 co_s 6.46 co_r 9.255 co_ha 28.26  cw 5.1 NA</desc>
-</wpt>
 <wpt lat="54.591902936823139" lon="-126.81879358016738">
   <name>195288 - NA - Gibson Creek</name>
   <desc>sub5 2.51 co_s 1.7 co_r 5.185 co_ha 18.67  cw 4.2 NA</desc>
-</wpt>
-<wpt lat="54.67520600751692" lon="-127.020432062613793">
-  <name>58159 - NA - McDowell Creek</name>
-  <desc>sub5 11.86 co_s 4.3 co_r 6.82 co_ha NA  cw 2.3 NA</desc>
 </wpt>
 <wpt lat="54.183412116046689" lon="-127.637102503871347">
   <name>1014001245 - high - NA</name>
@@ -368,5 +364,9 @@
 <wpt lat="54.462804112469286" lon="-126.521694675186978">
   <name>197665 - NA - NA</name>
   <desc>sub5 924.1 co_s 304.53 co_r 492.235 co_ha 1356.65  cw 3.5 NA</desc>
+</wpt>
+<wpt lat="54.67520600751692" lon="-127.020432062613793">
+  <name>58159 - NA - McDowell Creek</name>
+  <desc>sub5 11.86 co_s 4.3 co_r 6.82 co_ha NA  cw 2.3 NA</desc>
 </wpt>
 </gpx>
