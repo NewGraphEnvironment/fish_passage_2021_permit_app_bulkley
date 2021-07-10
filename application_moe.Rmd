@@ -74,9 +74,25 @@ font_set <- 9
 This permit application can also be viewed online [at this link](`r knitr::asis_output(link_repo)`).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map of displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](`r knitr::asis_output(link_kml)`)
 <br>
 
-Rationale for sampling is to inform fish presence/absence and species composition/density as part of habitat confirmations to prioritize fish passage restoration at barrier culverts as per the [Fish Passage Technical Working Group Phase 2 protocol](https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/land-based-investment/investment-categories/fish-passage). Presence/absence of fish, species composition/density and distribution limits can be useful for prioritizing which crossings are a best fit for fish passage restoration and help inform follow up monitoring.  Sampling is proposed at a portion of the 15 - 30 sites (Table \@ref(tab:tab-sites)) where we will be performing habitat confirmations this summer and may occur well upstream of the crossing locations.  The current list of candidate streams is extensive and will be narrowed down through the results of field assessments, modeling, ongoing communications with Wet'suwet'en, Skeena Fisheries Commission, DFO, Gitxsan Watershed Authority, FLNR and other stakeholders.
+Rationale for sampling is to inform fish presence/absence and species composition/density as part of habitat confirmations to prioritize fish passage restoration at barrier culverts as per the [Fish Passage Technical Working Group Phase 2 protocol](https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/land-based-investment/investment-categories/fish-passage). Presence/absence of fish, species composition/density and distribution limits can be useful for prioritizing which crossings are a best fit for fish passage restoration and help inform follow up monitoring.  
 
 <br>
+
+Sampling is proposed at a portion of the 15 - 30 sites (Table \@ref(tab:tab-sites)) where we will be performing habitat confirmations this summer and may occur well upstream of the crossing locations.  The current list of candidate streams will be narrowed down through the results of field assessments, modeling, ongoing communications with Wet'suwet'en, Skeena Fisheries Commission, DFO, Gitxsan Watershed Authority, FLNR and other stakeholders. Sampling methodologies will be dependent on the site, fish species suspected, type of habitat encountered, risks to aquatic organisms potentially present and ongoing communications with numerous stakeholders.  Sampling methods may include minnowtrapping, electrofishing, and dipnetting upstream and downstream of barrier culvert locations. 
+
+<br>
+
+
+Please note that the sampling will be completed before October 31, 2021 however the period is listed as Dec 31, 2021 on the application to allow time outside of the busy field season for the data to be processed, QA'd and organized so that required reporting can be as informative as possible when submitted. Results and methodologies from last year's assessments can be referenced [here at this link](https://newgraphenvironment.github.io/fish_passage_bulkley_2020_reporting/).
+
+<br>
+
+Please do not hesitate to contact me if you have any questions or concerns.
+
+
+
+![signature](D:/New_Graph/Admin/Business/Al_Sig.jpg){width=50%}  
+Al Irvine, R.P.Bio 
 
 ```{r load}
 ##load up the kml for the Morice planning
@@ -285,23 +301,6 @@ zip::zipr(paste0("docs/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"),
 
 
 ```
-
-It is unlikely that sampling will be conducted at more than 15 of the streams listed (Table \@ref(tab:tab-sites)) however until the sites are visited in the field it is difficult to determine where sampling will be most beneficial to inform the prioritization and monitoring. Sampling methodologies will be dependent on the site, fish species suspected, type of habitat encountered, risks to aquatic organisms potentially present and ongoing communications with numerous stakeholders.  Sampling methods may include minnowtrapping, electrofishing, and dipnetting upstream and downstream of barrier culvert locations. 
-
-<br>
-
-
-Please note that the sampling will be completed before October 15, 2021 however the period is listed as Dec 31, 2021 on the application to allow time outside of the busy field season for the data to be processed, QA'd and organized so that required reporting can be as informative as possible when submitted. Results and methodologies from last year's assessments can be referenced [here at this link](https://newgraphenvironment.github.io/fish_passage_bulkley_2020_reporting/).
-
-<br>
-
-Please do not hesitate to contact me if you have any questions or concerns.
-
-
-
-![signature](D:/New_Graph/Admin/Business/Al_Sig.jpg){width=50%}  
-Al Irvine, R.P.Bio  
-
 
 
 
