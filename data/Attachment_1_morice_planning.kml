@@ -1,0 +1,3613 @@
+<kml xmlns:xsd="http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="http://www.opengis.net/kml/2.2/" version="1.0">
+  <Document>
+    <name>data/Attachment_1_morice_planning.kml</name>
+    <open>1</open>
+    <Folder>
+      <name>SpatialPointsDataFrame</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt27">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt28">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt29">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt30">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt31">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt32">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt33">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt34">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt35">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt36">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt37">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt38">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt39">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt40">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt41">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt42">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt43">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt44">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt45">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt46">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt47">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt48">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt49">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt50">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt51">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt52">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt53">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt54">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt55">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt56">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt57">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt58">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt59">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt60">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt61">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt62">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt63">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt64">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff1c1ae4</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt65">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt66">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt67">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt68">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff999999</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt69">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt70">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>Modelled 14000008-low</name>
+        <styleUrl>#pnt1</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000008 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000008 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 905972 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010941 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> NVC at FISS site upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.44111,54.09294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000009-moderate</name>
+        <styleUrl>#pnt2</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000009 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000009 </td>
+   <td style="text-align:left;border: 1px solid black;"> {RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 4 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 952195.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1042282 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> In Houston with rail upstream.  Maybe very modified. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.73775,54.38009,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000023-low</name>
+        <styleUrl>#pnt3</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000023 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000023 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 912234.2 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1013959 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Tiny stream in FISS. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.34604,54.12108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000025-low</name>
+        <styleUrl>#pnt4</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000025 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000025 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 912159 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1013955 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Intermittent </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.34719,54.12104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000231-low</name>
+        <styleUrl>#pnt5</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000231 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000231 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 939345.2 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023090 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper, tagged as intermittent and noted as potentially fish bearing in FISS. Channel width 1.5 in FISS. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.93215,54.20679,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000255-high</name>
+        <styleUrl>#pnt6</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000255 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000255 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 917615.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1015041 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> CBR - 2.2m  culvert. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.26382,54.13167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000271-moderate</name>
+        <styleUrl>#pnt7</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000271 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000271 </td>
+   <td style="text-align:left;border: 1px solid black;"> {EB,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 950330.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1043718 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Just below Klinger Lake. Good for coho? </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.76677,54.39277,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000312-moderate</name>
+        <styleUrl>#pnt8</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000312 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000312 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 906232.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010000 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller stream potentially suitable for upstream migrating juvenile salmon. DV upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.43683,54.08456,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000379-moderate</name>
+        <styleUrl>#pnt9</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000379 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000379 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 909598.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1028636 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Cascade noted adjacent to crossing but no FISS sample sites. Coho in mainstem Thautil nearby. Stream splits to two tribs just upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39087,54.25210,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000382-low</name>
+        <styleUrl>#pnt10</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000382 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000382 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 909753.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1030195 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small watershed. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.38896,54.26609,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000397-low</name>
+        <styleUrl>#pnt11</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000397 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000397 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 910628.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1039087 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very small channel at upstream FISS site. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.37816,54.34590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000477-low</name>
+        <styleUrl>#pnt12</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000477 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000477 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 906507.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010000 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small watershed </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.43261,54.08461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000507-moderate</name>
+        <styleUrl>#pnt13</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000507 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000507 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 897908.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1026035 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Low gradient with wetlands upstream and CO,CT and others downstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.56978,54.22661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000509-moderate</name>
+        <styleUrl>#pnt14</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000509 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000509 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 914073 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1014451 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Channel width 1.5 m downstream at FISS site. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.31798,54.12580,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000554-low</name>
+        <styleUrl>#pnt15</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000554 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000554 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 906121.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1006698 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Quite steep. and smaller stream. Suspect non-fish b/c of all the sites upstream with no obs. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.43750,54.05496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000565-high</name>
+        <styleUrl>#pnt16</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000565 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000565 </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 913733.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1038120 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Stealhead and bulltrout nearby </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.33001,54.33777,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000569-moderate</name>
+        <styleUrl>#pnt17</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000569 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000569 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 936083 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1031456 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> FISS site downstream does not mention intermittent as is FWA tag. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.98406,54.28134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000571-moderate</name>
+        <styleUrl>#pnt18</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000571 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000571 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 936573.2 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1032154 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of low gradient habitat but split into many tribs. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.97666,54.28765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000592-low</name>
+        <styleUrl>#pnt19</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000592 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000592 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 924005.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1009296 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Less than 1m width noted at upstream FISS site 1.33km upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.16436,54.08118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000634-low</name>
+        <styleUrl>#pnt20</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000634 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000634 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 945174.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1038491 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small, steep, intermittent </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.84540,54.34542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000637-low</name>
+        <styleUrl>#pnt21</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000637 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000637 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 945143.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1038309 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very small measured channel width just downstream (FISS). </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.84583,54.34379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000674-moderate</name>
+        <styleUrl>#pnt22</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000674 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000674 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 926743.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022431 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Coho downstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.12561,54.19924,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000681-low</name>
+        <styleUrl>#pnt23</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000681 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000681 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 912359.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1028329 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Tagged as intermittent.  Steep, with very small FISS measure channel width downstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.34831,54.24983,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000683-moderate</name>
+        <styleUrl>#pnt24</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000683 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000683 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 931566.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023297 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Top end of lake. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.05171,54.20767,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000690-low</name>
+        <styleUrl>#pnt25</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000690 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000690 </td>
+   <td style="text-align:left;border: 1px solid black;"> {RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 929997.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023349 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very small measured channel upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.07583,54.20792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000697-low</name>
+        <styleUrl>#pnt26</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000697 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000697 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 925263.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022828 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small first order stream.  Unlikley to contain significant amounts of good habitat. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.14845,54.20259,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000718-moderate</name>
+        <styleUrl>#pnt27</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000718 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000718 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 948058.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1016278 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Models as over 2m wide and has fish obs upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.79707,54.14672,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000773-low</name>
+        <styleUrl>#pnt28</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000773 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000773 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 920020.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010681 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Some spawning habitat noted upstream with width &lt;1m. Very small stream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.22577,54.09299,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000776-low</name>
+        <styleUrl>#pnt29</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000776 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000776 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 920799.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1011807 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Flows into Collins Lake. Flagged intermittent with measured channel width of 1.37m. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.21414,54.10319,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000777-moderate</name>
+        <styleUrl>#pnt30</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000777 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000777 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 909156.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010602 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Two small tribs upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39221,54.09047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000788-moderate</name>
+        <styleUrl>#pnt31</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000788 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000788 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 908954.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1010949 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper system. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39541,54.09355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000796-high</name>
+        <styleUrl>#pnt32</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000796 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000796 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CC,CO,DV,RB,SP} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 941994 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022483 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Major culvert (5m wide). </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.89132,54.20165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000798-high</name>
+        <styleUrl>#pnt33</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000798 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000798 </td>
+   <td style="text-align:right;border: 1px solid black;"> 4 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 948648.1 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1040145 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Fish way noted as having issues in Smith 2018. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.79212,54.36059,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000801-moderate</name>
+        <styleUrl>#pnt34</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000801 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000801 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 945759 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1035154 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Quite steep. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.83578,54.31559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000854-low</name>
+        <styleUrl>#pnt35</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000854 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000854 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 941727.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1035345 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Tagged intermittent. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.89792,54.31685,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000880-low</name>
+        <styleUrl>#pnt36</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000880 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000880 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 913030.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1014146 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Stream tagged intermittent </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.33387,54.12289,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000908-moderate</name>
+        <styleUrl>#pnt37</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000908 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000908 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 908974.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1025174 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steelhead and coho points just downstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39941,54.22097,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000912-high</name>
+        <styleUrl>#pnt38</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000912 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000912 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 888694.1 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1019103 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Good sized lake upstream. Road not visible in aerial imagery.  Follow up with foresters before headingout in field. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.70884,54.16261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000931-high</name>
+        <styleUrl>#pnt39</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000931 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000931 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT,DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 905438.1 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1000082 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very close to Naninka. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.44589,53.99557,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000973-low</name>
+        <styleUrl>#pnt40</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000973 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000973 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 936095.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023099 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Close to Morice with a good sized wetland but likely very small channel according to FISS site upstream and model output. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.98208,54.20648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14000991-moderate</name>
+        <styleUrl>#pnt41</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14000991 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000991 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 928296.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1020148 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper stream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.10121,54.17901,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001002-moderate</name>
+        <styleUrl>#pnt42</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001002 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001002 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CO} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 911089.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1021884 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller stream with coho upstream of crossing. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.36593,54.19188,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001029-high</name>
+        <styleUrl>#pnt43</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001029 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001029 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 930605.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1020077 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very close to Morice mainstem. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.06574,54.17869,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001044-low</name>
+        <styleUrl>#pnt44</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001044 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001044 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 925153.2 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1030141 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Low RB densities in Houson Tommy Creek (FISS) </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.15198,54.26808,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001078-low</name>
+        <styleUrl>#pnt45</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001078 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001078 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 908988.1 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1003050 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Steeper stream with lower watershed. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39252,54.02280,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001080-moderate</name>
+        <styleUrl>#pnt46</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001080 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001080 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 908999.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1002787 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller potential high value habitat gain but Nanika in Nanika system so in high value watershed. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.39226,54.02044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001118-low</name>
+        <styleUrl>#pnt47</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001118 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001118 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 922076.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023916 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very small upstream watershed area.  Suspect tiny stream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.19770,54.21186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001157-low</name>
+        <styleUrl>#pnt48</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001157 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001157 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 941612.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1024397 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Intermittent </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.89755,54.21876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001161-high</name>
+        <styleUrl>#pnt49</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001161 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001161 </td>
+   <td style="text-align:left;border: 1px solid black;"> {BB,CAS,CO,CSU,CT,DV,LDC,LSU,LT,LW,MW,PCC,RB,RSC,WSU} </td>
+   <td style="text-align:right;border: 1px solid black;"> 4 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 909419.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1008466 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> CBR indicates "major culvert" at 4.5m width. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.38754,54.07139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001177-low</name>
+        <styleUrl>#pnt50</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001177 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001177 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT,LNC} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 924656 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1026052 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small stream with cutthrout upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.15860,54.23138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001195-moderate</name>
+        <styleUrl>#pnt51</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001195 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001195 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 911718.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1014856 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Low gradient and close to mainstem but low elevation watershed. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.35421,54.12903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001198-moderate</name>
+        <styleUrl>#pnt52</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001198 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001198 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 890097.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1012966 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Models as a bit larger of a channel with 0.75km &lt;5% and  DV upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.68506,54.10794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001200-low</name>
+        <styleUrl>#pnt53</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001200 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001200 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 888632.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1012289 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Intermittent stream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.70726,54.10156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001222-high</name>
+        <styleUrl>#pnt54</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001222 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001222 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT,DV,LKC,RB,RB/CT} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 921428.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1005566 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Large lake headed system. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.20287,54.04738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001245-high</name>
+        <styleUrl>#pnt55</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001245 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001245 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CO,CT,DV,LKC,SP} </td>
+   <td style="text-align:right;border: 1px solid black;"> 4 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 893419.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1021314 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Coho, steelhead and other species upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.63710,54.18341,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001247-high</name>
+        <styleUrl>#pnt56</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001247 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001247 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CO,CT,DV,LKC} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 896330.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022596 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Multiple species (including CO)  noted upstream with lots of modelled habitat. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.59284,54.19550,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001427-moderate</name>
+        <styleUrl>#pnt57</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001427 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001427 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 917730.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1026916 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Potentially fish bearing according to http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=50411. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.26531,54.23806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001534-moderate</name>
+        <styleUrl>#pnt58</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001534 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001534 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 897018.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1034078 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Channel models as small.  Flows into lake. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.58623,54.29848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001542-high</name>
+        <styleUrl>#pnt59</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001542 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001542 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT,DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 4 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 900220.2 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1023934 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Many fish points upstream and downstream. Low grades. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.53355,54.20825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001563-high</name>
+        <styleUrl>#pnt60</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001563 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001563 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CCT,CT,LKC} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 934551 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1024547 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of low gradient and lake upsteam. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.00613,54.21925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001654-low</name>
+        <styleUrl>#pnt61</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001654 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001654 </td>
+   <td style="text-align:left;border: 1px solid black;"> {RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 926785.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1009249 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very top end of watershed. RB upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.12176,54.08116,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001749-low</name>
+        <styleUrl>#pnt62</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001749 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001749 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 923621.6 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1008291 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Tagged intermittent with very small watershed. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.16999,54.07212,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 14001769-moderate</name>
+        <styleUrl>#pnt63</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 14001769 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001769 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CT} </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 919322.9 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1025416 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Appears of highest value for rearing. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.24042,54.22487,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modelled 24740003-high</name>
+        <styleUrl>#pnt64</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> Modelled 24740003 </td>
+   <td style="text-align:left;border: 1px solid black;"> high </td>
+   <td style="text-align:right;border: 1px solid black;"> 24740003 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CAL,LKC,RB,RSC} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 926559.8 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1003931 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Lots of lake upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-127.12393,54.03348,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197362-low</name>
+        <styleUrl>#pnt65</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197362 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 197362 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001178 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV} </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.7 </td>
+   <td style="text-align:left;border: 1px solid black;"> HIGH </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198222" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 946690.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1012739 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Small channel. Comments do not indicate justification for "high" habitat value rating. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.81743,54.11487,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197365-moderate</name>
+        <styleUrl>#pnt66</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197365 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 197365 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000709 </td>
+   <td style="text-align:right;border: 1px solid black;"> 2 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.5 </td>
+   <td style="text-align:left;border: 1px solid black;"> LOW </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198225" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 947847.5 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1017450 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Smaller channel width. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.80051,54.15719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197370-low</name>
+        <styleUrl>#pnt67</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197370 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 197370 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000807 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.5 </td>
+   <td style="text-align:left;border: 1px solid black;"> MEDIUM </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198230" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 944445.1 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022926 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Assessment comments indicate no channel here. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.85375,54.20590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197371-low</name>
+        <styleUrl>#pnt68</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197371 </td>
+   <td style="text-align:left;border: 1px solid black;"> low </td>
+   <td style="text-align:right;border: 1px solid black;"> 197371 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001005 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 1.3 </td>
+   <td style="text-align:left;border: 1px solid black;"> MEDIUM </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198231" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 943904.4 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1022121 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Very small amount of potential habitatt. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.86191,54.19863,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197378-moderate</name>
+        <styleUrl>#pnt69</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197378 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 197378 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14001179 </td>
+   <td style="text-align:left;border: 1px solid black;"> {DV,LNC,MW,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 3.1 </td>
+   <td style="text-align:left;border: 1px solid black;"> MEDIUM </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198238" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 949119.3 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1012955 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Large wetland complex upstream. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.78023,54.11705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSCIS  197379-moderate</name>
+        <styleUrl>#pnt70</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> site_id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Priority </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> PSCIS ID </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Modelled ID </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Species </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Order </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Upstream habitat (km) </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> Channel width </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Habitat value </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Image link </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> long </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> lat </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> Comments </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> PSCIS  197379 </td>
+   <td style="text-align:left;border: 1px solid black;"> moderate </td>
+   <td style="text-align:right;border: 1px solid black;"> 197379 </td>
+   <td style="text-align:right;border: 1px solid black;"> 14000712 </td>
+   <td style="text-align:left;border: 1px solid black;"> {CO,RB} </td>
+   <td style="text-align:right;border: 1px solid black;"> 3 </td>
+   <td style="text-align:right;border: 1px solid black;"> 0 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5.4 </td>
+   <td style="text-align:left;border: 1px solid black;"> MEDIUM </td>
+   <td style="text-align:left;border: 1px solid black;"> <a href="http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=198239" style="     ">crossing</a> </td>
+   <td style="text-align:right;border: 1px solid black;"> 945310.7 </td>
+   <td style="text-align:right;border: 1px solid black;min-width: 0.5in; "> 1020252 </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> Less than 1km of potential habitat but very large channel width. </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-126.83996,54.18203,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,385 @@
+---
+title: "Fish Permit Application"
+author: "Al Irvine"
+output:
+  pagedown::html_letter:
+    self_contained: true
+    css: ["style-pagedown.css", "default", "letter"]
+links-to-footnotes: false
+paged-footnotes: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+![logo](C:/scripts/fish_passage_2021_permit_app/fig/logo_text_only.png){.logo} 
+
+
+ 
+
+<br>
+
+::: from
+Al Irvine  
+New Graph Environment  
+al@newgraphenvironment  
+250-777-1518  
+Date: `r format(Sys.Date(), "%Y-%m-%d")` 
+:::
+
+
+Ministry of Environment 
+Skeena Region  
+3726 Alfred Ave 1st Floor  
+Smithers, BC V0J 2N0  
+
+
+
+<br>
+
+**Re: Fish Permit Application**
+
+<br>
+
+```{r setup, include = TRUE, echo =FALSE, message=FALSE, warning=FALSE}
+# gitbook_on <- TRUE
+gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
+
+
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, dpi=60, out.width = "100%")
+options(scipen=999)
+options(knitr.kable.NA = '--') #'--'
+options(knitr.kable.NAN = '--')
+
+source('R/packages.R')
+source('R/functions.R')
+
+##define the project
+project_name <- 'bulkley_2021'
+
+```
+
+```{r settings-gitbook, eval= gitbook_on}
+photo_width <- "100%"
+font_set <- 11
+
+```
+
+```{r settings-paged-html, eval= identical(gitbook_on, FALSE)}
+photo_width <- "80%"
+font_set <- 9
+```
+
+This permit application can also be viewed online [at this link](https://www.newgraphenvironment.com/fish_passage_2021_permit_app/).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map of displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](https://github.com/NewGraphEnvironment/fish_passage_2021_permit_app/raw/main/mapping/sites_bulkley_2021_20210710_kml.zip).
+
+<br>
+
+Rationale for sampling is to inform fish presence/absence and species composition/density as part of habitat confirmations to prioritize fish passage restoration at barrier culverts as per the [Fish Passage Technical Working Group Phase 2 protocol](https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/land-based-investment/investment-categories/fish-passage). Presence/absence of fish, species composition/density and distribution limits can be useful for prioritizing which crossings are a best fit for fish passage restoration and help inform follow up monitoring.  Sampling is proposed at a portion of the 15 - 30 sites (Table \@ref(tab:tab-sites)) where we will be performing habitat confirmations this summer and may occur well upstream of the crossing locations.  The current list of candidate streams is extensive and will be narrowed down through the results of field assessments, modeling, ongoing communications with Wet'suwet'en, Skeena Fisheries Commission, DFO, Gitxsan Watershed Authority, FLNR and other stakeholders.
+
+<br>
+
+```{r load}
+##load up the kml for the Morice planning
+
+
+# morice_planning <- sf::st_read('data/Attachment_1_morice_planning.kml', quiet = T) %>% 
+#   separate(Name, into = c('a', 'modelled_crossing_id', 'priority')) %>% 
+#   filter(priority %in% c('high', 'moderate'))
+
+##grab just the morice sites
+sites_morice_raw <- readr::read_csv('data/planning_results.csv') %>% 
+  mutate(aggregated_crossings_id = as.integer(aggregated_crossings_id))
+
+
+sites_morice <- sites_morice_raw %>% 
+  filter(my_priority %in% c('mod', 'high')) %>% 
+  pull(aggregated_crossings_id)
+
+##grab the sites from cwf
+sites_cwf_raw <- readr::read_csv('data/Bulkley priority sites for Al.csv')
+
+sites_cwf_modelled <- sites_cwf_raw %>% 
+  filter(!is.na(modelled_crossing_id)) %>% 
+  pull(modelled_crossing_id)
+
+##name sites in BuLK we want to look at ( watson - 1001800356, cesford - 1001800048, everything from last year too!!)
+sites_bulk_agg <- c('1001800356', '1001800048')
+
+##last years phase 2 sites sites
+sites_2020 <- import_pscis(workbook_name = 'pscis_phase2.xlsm') %>%
+  tibble::rownames_to_column() %>%
+  arrange(pscis_crossing_id) %>%
+  pull(pscis_crossing_id)
+
+```
+
+```{r pull-db}
+##pull out what we need from the database
+source('R/private_info.R')
+conn <- DBI::dbConnect(
+  RPostgres::Postgres(),
+  dbname = dbname_wsl,
+  host = host_wsl,
+  port = port_wsl,
+  user = user_wsl,
+  password = password_wsl
+)
+
+
+##this is all at once
+info <- sf::st_read(conn, 
+                         query = glue::glue_sql("Select *
+                                FROM bcfishpass.crossings 
+                                WHERE (aggregated_crossings_id IN
+                                ({sites_morice*})) 
+                                OR (aggregated_crossings_id IN
+                                ({sites_bulk_agg*})) 
+                                OR (modelled_crossing_id IN
+                                ({sites_cwf_modelled*}))
+                                OR (stream_crossing_id IN
+                                ({sites_2020*}));
+                                ",
+  .con = conn)) %>% 
+  distinct(aggregated_crossings_id, .keep_all = T) %>% 
+  sf::st_transform(crs = 4326) %>% 
+   mutate(long = sf::st_coordinates(.)[,1],
+         lat = sf::st_coordinates(.)[,2])
+
+info_ids <- info %>% 
+  pull(aggregated_crossings_id)
+```
+
+```{r wsc, eval = T}
+##find the watershed codes for all the sites
+wsc <- sf::st_read(conn, 
+                         query = glue::glue_sql(
+  "SELECT DISTINCT ON (aggregated_crossings_id)
+    aggregated_crossings_id, 
+    a.linear_feature_id,
+    a.wscode_ltree as watershed_code_20k,
+    a.blue_line_key,
+    b.watershed_code_50k,
+    substring(b.watershed_code_50k from 1 for 3)
+      ||'-'||substring(b.watershed_code_50k from 4 for 6)
+      ||'-'||substring(b.watershed_code_50k from 10 for 5)
+      ||'-'||substring(b.watershed_code_50k from 15 for 5)
+      ||'-'||substring(b.watershed_code_50k from 20 for 4)
+      ||'-'||substring(b.watershed_code_50k from 24 for 4)
+      ||'-'||substring(b.watershed_code_50k from 28 for 3)
+      ||'-'||substring(b.watershed_code_50k from 31 for 3)
+      ||'-'||substring(b.watershed_code_50k from 34 for 3)
+      ||'-'||substring(b.watershed_code_50k from 37 for 3)
+      ||'-'||substring(b.watershed_code_50k from 40 for 3)
+      ||'-'||substring(b.watershed_code_50k from 43 for 3)as watershed_code_50k_parsed
+FROM bcfishpass.crossings a
+LEFT OUTER JOIN whse_basemapping.fwa_streams_20k_50k b
+ON a.linear_feature_id = b.linear_feature_id_20k
+WHERE a.aggregated_crossings_id IN ({info_ids*})
+ORDER BY a.aggregated_crossings_id, b.match_type;",
+  .con = conn)) %>%  
+  select(aggregated_crossings_id, blue_line_key, watershed_code_50k = watershed_code_50k_parsed, watershed_code_20k) %>%
+  mutate(watershed_code_50k = stringr::str_replace_all(watershed_code_50k, c('-00000'), ''),
+         watershed_code_50k = stringr::str_replace_all(watershed_code_50k, c('-0000'), ''),
+         watershed_code_50k = stringr::str_replace_all(watershed_code_50k, c('-000'), ''),
+         watershed_code_20k = stringr::str_replace_all(watershed_code_20k, c('[.]'), '-'))
+
+##get the names of the streams
+ids_blk <- info %>% 
+  pull(blue_line_key)
+
+
+
+
+gnis_names <- sf::st_read(conn, 
+                         query = glue::glue_sql(
+                           "SELECT gnis_name, blue_line_key FROM whse_basemapping.fwa_named_streams WHERE blue_line_key IN ({ids_blk*})",
+  .con = conn)) 
+
+
+##get widths of stream segment at crossing using linear feature id and blk
+
+ids_lf <- info %>% 
+  pull(linear_feature_id)
+
+widths <- sf::st_read(conn, 
+                         query = glue::glue_sql(
+                           "SELECT channel_width, blue_line_key,linear_feature_id FROM bcfishpass.streams WHERE blue_line_key IN ({ids_blk*})
+                           AND linear_feature_id IN ({ids_lf*});",
+  .con = conn)) %>% 
+  filter(!is.na(channel_width)) %>% 
+  distinct()
+
+```
+
+```{r table}
+##built the table with all our info
+tab_prep1 <- left_join(wsc, gnis_names,
+                 by = 'blue_line_key') %>% 
+  select(-blue_line_key)
+
+
+tab_prep2 <- left_join(
+                 select(info, aggregated_crossings_id, blue_line_key, linear_feature_id, lat, long, observedspp_upstr, watershed_upstr_ha, total_slopeclass03_waterbodies_km, total_slopeclass05_km, total_slopeclass08_km, co_spawning_km:co_rearing_ha),
+                 tab_prep1,
+                 by = 'aggregated_crossings_id') 
+
+
+tab_prep3 <- left_join(tab_prep2,
+                       widths,
+                       by = c('blue_line_key', 'linear_feature_id'))
+
+
+table_sites <- left_join(tab_prep3, 
+                         select(sites_morice_raw, aggregated_crossings_id, my_priority, my_text),
+                         by = 'aggregated_crossings_id'
+) %>% 
+  mutate(sub5 = total_slopeclass03_waterbodies_km + total_slopeclass05_km,
+         name = paste0(aggregated_crossings_id, ' - ', my_priority, ' - ', gnis_name), 
+         desc = paste0('sub5 ', sub5, ' co_s ', co_spawning_km, ' co_r ', co_rearing_km, ' co_ha ', 
+                       co_rearing_ha, ' ', ' cw ', channel_width, ' ', my_text),
+         color = case_when(my_priority == 'mod' ~ 'yellow',
+                                             T ~ 'red'))
+```
+
+
+```{r gpx}
+
+dir.create('mapping')
+
+
+#make a gpx file for hitting the field
+table_sites %>% 
+  select(name, desc,  geom) %>% 
+  write_sf(dsn = paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), ".gpx"), driver="GPX",
+           dataset_options="GPX_USE_EXTENSIONS=yes", delete_dsn = TRUE)
+
+```
+
+```{r kml}
+##make a kml for adding the georef pdf and sharing with stakeholders
+
+df <- table_sites %>%
+  mutate(shape = case_when(my_priority == 'mod' ~ 'http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png',
+                           T ~ 'http://maps.google.com/mapfiles/kml/paddle/red-blank.png')) %>%
+                           # color = plotKML::col2kml(color)) %>%
+           dplyr::group_split(aggregated_crossings_id) %>% 
+           purrr::map(make_html_tbl) %>%
+           dplyr::bind_rows()
+
+
+sites_kml <- as(df, 'Spatial')
+
+shape = "http://maps.google.com/mapfiles/kml/pal2/icon18.png"
+
+
+
+kml_open(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
+kml_layer(sites_kml, colour = '#ff7f00', shape = sites_kml$shape, labels = sites_kml$name, 
+          html.table = sites_kml$html_tbl,
+          z.scale = 2, LabelScale = 1, size = 1.5)  ##I don't see the label
+kml_close(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '.kml'))
+
+##now we will zip up the kml files in the data folder and rename with kmz
+files_to_zip <- paste0("mapping/", list.files(path = "mapping/", pattern = "\\.kml$"))  ##this will zip all kmls in file so watch out
+zip::zipr(paste0("mapping/sites_", project_name, '_', format(Sys.Date(), "%Y%m%d"), '_kml.zip'), files = files_to_zip)  ##it does not work to zip to kmz!!
+
+
+```
+
+It is unlikely that sampling will be conducted at more than 15 of the streams listed (Table \@ref(tab:tab-sites)) however until the sites are visited in the field it is difficult to determine where sampling will be most beneficial to inform the prioritization and monitoring. Sampling methodologies will be dependent on the site, fish species suspected, type of habitat encountered, risks to aquatic organisms potentially present and ongoing communications with numerous stakeholders.  Sampling methods may include minnowtrapping, electrofishing, and dipnetting upstream and downstream of barrier culvert locations. 
+
+<br>
+
+
+Please note that the sampling will be completed before October 15, 2021 however the period is listed as Dec 31, 2021 on the application to allow time outside of the busy field season for the data to be processed, QA'd and organized so that required reporting can be as informative as possible when submitted. Results and methodologies from last year's assessments can be referenced [here at this link](https://newgraphenvironment.github.io/fish_passage_bulkley_2020_reporting/).
+
+<br>
+
+Please do not hesitate to contact me if you have any questions or concerns.
+
+
+
+![signature](D:/New_Graph/Admin/Business/Al_Sig.jpg){width=50%}  
+Al Irvine, R.P.Bio  
+
+
+
+
+`r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br><br><br><br>")`
+
+
+
+
+```{r map-prep}
+
+
+##register google key defined in 'R/private_info.R' file
+ggmap::register_google(key = google_api_key)
+
+#define the area of the base map by using a bounding box 
+mybasemap <- ggmap::get_map(location = c(left = table_sites %>% pull(long) %>% min()-0.01, 
+                                    bottom = table_sites %>% pull(lat) %>% min()-0.01,
+                                    right = table_sites %>% pull(long) %>% max()+0.01,
+                                    top = table_sites %>% pull(lat) %>% max()+0.01),
+                     source = "google",
+                     zoom = 8,
+                    maptype = "hybrid")
+
+
+
+#define the area of the base map by using the middle. 
+# mybasemap <- ggmap::get_map(location = c(lon = table_sites %>% pull(long) %>% mean(),
+#                                          lat = table_sites %>% pull(lat) %>% mean())
+#                             source = "google",
+#                             zoom = "auto",
+#                             maptype = "hybrid")
+
+
+mymap <- ggmap::ggmap(mybasemap) + 
+  geom_point(data = table_sites, 
+             aes(x = long, y = lat, colour = color),
+             show.legend = F)
+  # ggsflabel::geom_sf_label(data = table_sites, 
+  #                          aes(x = long, y = lat, label = name),
+  #                          force = 100, 
+  #                          nudge_x = -2)
+
+mymap
+```
+
+Figure 1. Map of potential sampling areas. High priority sites in red and moderate priority in green.
+
+
+`r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>")`
+
+
+```{r tab-sites}
+table_sites %>% 
+  sf::st_drop_geometry() %>% 
+  arrange(aggregated_crossings_id) %>% 
+  select(id = aggregated_crossings_id, Stream = gnis_name, watershed_code_50k, watershed_code_20k, lat, long, sp_upstr = observedspp_upstr) %>% 
+  kable(caption = 'Potential sample locations in the Bulkley River and Morice River watershed groups.', booktabs = T) %>%
+  kableExtra::kable_styling(c("condensed"),
+                            full_width = T,
+                            font_size = font_set) %>%
+  kableExtra::column_spec(column = c(3,4,7), width_min = '1.0in') %>% 
+  kableExtra::column_spec(column = c(7), width_max = '2.0in')
+```
+
+
+
+`r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br><br>")`
+
+
+
+
+```{r tab-fish}
+fiss_species_table <- readr::read_csv(paste0(getwd(), '/data/fiss_species_table.csv'))
+
+fiss_species_table %>% 
+  my_kable(caption_text = 'Fish species recorded in the Bulkley River and Morice River watershed groups.')
+
+
+```
+
+
+
