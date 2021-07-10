@@ -11,7 +11,7 @@ paged-footnotes: false
 knit: pagedown::chrome_print
 ---
 
-![logo](C:/scripts/fish_passage_2021_permit_app/fig/logo_text_only.png){.logo} 
+![logo](C:/scripts/fish_passage_2021_permit_app_bulkley/fig/logo_text_only.png){.logo} 
 
 
  
