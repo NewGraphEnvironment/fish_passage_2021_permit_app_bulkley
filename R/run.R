@@ -10,7 +10,7 @@ file.copy('C:/scripts/fish_passage_2021_permit_app_elk/R/private_info.R', 'R/pri
 
 ##move the html to the docs folder so it can be viewed online
 file.rename('application_moe.html', 'docs/index.html')
-
+file.rename('application_moe.pdf', 'docs/application_moe.pdf')
 
 
 
